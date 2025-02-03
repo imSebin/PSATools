@@ -1,0 +1,67 @@
+{
+  "gardevoir" : [
+    {
+      "2003" : [
+        {
+          "base" : {
+            "category" : "TCG Cards",
+            "expansion" : "Pokemon EX Ruby & Sapphire",
+            "language" : "English",
+            "released" : "2003",
+            "number" : "7/109",
+            "type" : "Psychic",
+            "rarity" : "Rare Holo",
+            "psa_10_pop" : "18",
+            "cert_number" : "25032566",
+            "obtained" : "False",
+            "alternate" : "False",
+            "authenticator" : "N/A",
+            "grade" : "N/A",
+            "img": "GardevoirEXRubySapphire7.jpg",
+            "id": "1"
+          }
+        },
+        {
+          "base reverse-foil" : {
+            "category" : "TCG Cards",
+            "expansion" : "Pokemon EX Ruby & Sapphire",
+            "language" : "English",
+            "released" : "2003",
+            "number" : "7/109",
+            "type" : "Psychic",
+            "rarity" : "Rare Holo",
+            "psa_10_pop" : "1",
+            "cert_number" : "N/A",
+            "obtained" : "False",
+            "alternate" : "False",
+            "authenticator" : "N/A",
+            "grade" : "N/A",
+            "img": "",
+            "id": "1"
+          }
+        }
+      ],
+      "2005" : [
+        {
+          "delta-species reverse-foil" : {
+            "category" : "TCG Cards",
+            "expansion" : "Pokemon EX Delta Species",
+            "language" : "English",
+            "released" : "2005",
+            "number" : "6/113",
+            "type" : "Psychic",
+            "rarity" : "Reverse Holo",
+            "psa_10_pop" : "5",
+            "cert_number" : "60504866",
+            "obtained" : "True",
+            "alternate" : "False",
+            "authenticator" : "PSA",
+            "grade" : "10",
+            "img": "",
+            "id": "1"
+          }
+        }
+      ]
+    }
+  ]
+}
