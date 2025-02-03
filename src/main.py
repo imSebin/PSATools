@@ -8,9 +8,7 @@ from tkinter import *
 from tkinter import ttk
 from PIL import ImageTk, Image
 
-TOKEN = "yEKAO4ZeaOsBIum52eQOEvD499sTNIRG4SF4moHeu4RScgNk8lFqGCLUHTo0rluurB8OMqrBkRU-5VIyEWBMYYYYdwdlDXOLEDn0UZF0OIDp" \
-        "--OydCwsZXNcKcf0ylltgRC9YIksugdIcayzHdHFOg0Th0pG9DXBD_m9gTZpjMdwKPdAtKUJPv_2nDS0yguMzMy7h_6GIxC64HsrctPZ3O_e" \
-        "IuBIjWs9pnrIHyu1Bsl153kT2gVMQDuwVUl41h2z09aDpRd3_ymwoHNRd520fElE30wdUPAafoWhwArgIPCfisvr"
+TOKEN = ""
 
 
 class app:
