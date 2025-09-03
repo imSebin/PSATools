@@ -1,4 +1,3 @@
-from locale import windows_locale
 
 import requests
 import json
@@ -71,7 +70,7 @@ class app:
         selection_label.pack(anchor="w")
 
         #TODO: CHANGE JSON FORMAT
-    
+
 
         # Sub-selection
         sub_selection_label = ttk.Label(sub_selection_frame, text="By Versions of Same Artwork")
@@ -172,7 +171,9 @@ def get_image_by_cert(cert_num):
 
 
 if __name__ == '__main__':
-    portfolio_path = 'C:/Users/sebin/PycharmProjects/PSARepo/portfolio.json'
+    with open("C:/Users/sebin/PycharmProjects/PSATools/token.txt") as f:
+        TOKEN = f.readline()
+    portfolio_path = '/res/data/portfolio.json'
     root = Tk()
     app(root, portfolio_path)
     root.mainloop()

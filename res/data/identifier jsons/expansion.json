@@ -1,0 +1,85 @@
+{
+  "Japanese": {
+    "Vending Series": {
+      "Vending Series 1 (Blue)": {
+        "ID":"0",
+        "Released": "03/23/1998",
+        "Total": "36",
+        "Icon": "./res/imgs/icons/0_0_0.jpg",
+        "Splash": "./res/imgs/splashes/0_0_0.jpg"
+      },
+      "Vending Series 2 (Red)": {
+        "ID": "1",
+        "Released": "06/17/1998",
+        "Total": "36",
+        "Icon": "./res/imgs/icons/0_0_1.jpg",
+        "Splash": "./res/imgs/splashes/0_0_1.jpg"
+      },
+      "Vending Series 3 (Green)": {
+        "ID": "2",
+        "Released": "11/24/1998",
+        "Total": "53",
+        "Icon": "./res/imgs/icons/0_0_2.jpg",
+        "Splash": "./res/imgs/splashes/0_0_2.jpg"
+      }
+    },
+    "Original Series": {
+      "Expansion Pack": {},
+      "Pokemon Jungle": {},
+      "Mystery of the Fossils": {},
+      "Rocket Gang": {},
+      "Leader's Stadium": {},
+      "Challenge from the Darkness": {}
+    }
+  },
+  "English": {
+    "Base Set Series": {
+      "Base Set": {
+        "ID": "?",
+        "Released": "01/09/1999",
+        "Total": "102",
+        "Icon": "./res/imgs/icons/1_0_0.jpg",
+        "Splash": "./res/imgs/splashes/1_0_0.jpg"
+      },
+      "Jungle": {
+        "ID": "?",
+        "Released": "06/16/1999",
+        "Total": "64",
+        "Icon": "./res/imgs/icons/1_0_1.jpg",
+        "Splash": "./res/imgs/splashes/1_0_1.jpg"
+      },
+      "Wizards of the Coast Promos": {
+        "ID": "?",
+        "Released": "07/01/1999",
+        "Total": "53",
+        "Icon": "./res/imgs/icons/1_0_2.jpg",
+        "Splash": "./res/imgs/splashes/1_0_2.jpg"
+      },
+      "Fossil": {
+        "ID": "?",
+        "Released": "10/10/1999",
+        "Total": "62",
+        "Icon": "./res/imgs/icons/1_0_3.jpg",
+        "Splash": "./res/imgs/splashes/1_0_3.jpg"
+      },
+      "Base Set 2": {
+        "ID": "?",
+        "Released": "02/24/2000",
+        "Total": "130",
+        "Icon": "./res/imgs/icons/1_0_4.jpg",
+        "Splash": "./res/imgs/splashes/1_0_4.jpg"
+      },
+      "Team Rocket": {
+        "ID": "?",
+        "Released": "04/24/2000",
+        "Total": "82",
+        "Icon": "./res/imgs/icons/1_0_5.jpg",
+        "Splash": "./res/imgs/splashes/1_0_5.jpg"
+      }
+    },
+    "Gym Heroes Series": {
+      "Gym Heroes": {},
+      "Gym Challenge": {}
+    }
+  }
+}

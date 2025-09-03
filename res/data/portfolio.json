@@ -1,0 +1,194 @@
+{
+  "gardevoir": {
+    "ex-ruby-sapphire holo": {
+      "expansion": "EX Ruby & Sapphire",
+      "language": "English",
+      "card": "Gardevoir",
+      "released": "2003",
+      "number": "7/109",
+      "rarity": "Rare Holo",
+      "psa_10_pop": "18",
+      "cert_number": "25032566",
+      "obtained": "False",
+      "authenticator": "N/A",
+      "grade": "N/A",
+      "img": "282_0_0_0.jpg",
+      "id": "282.0.0.0"
+    },
+    "ex-ruby-sapphire reverse-foil": {
+      "expansion": "EX Ruby & Sapphire",
+      "language": "English",
+      "card": "Gardevoir",
+      "released": "2003",
+      "number": "7/109",
+      "rarity": "Rare Holo",
+      "psa_10_pop": "1",
+      "cert_number": "N/A",
+      "obtained": "False",
+      "authenticator": "N/A",
+      "grade": "N/A",
+      "img": "282_0_1_0.jpg",
+      "id": "282.0.1.0"
+    },
+    "ex-ruby-sapphire holo ex-battle-stadium": {
+      "expansion": "EX Ruby & Sapphire",
+      "language": "English",
+      "card": "Gardevoir"
+    },
+    "ex-ruby-sapphire non-holo ex-battle-stadium": {
+      "expansion": "EX Ruby & Sapphire",
+      "language": "English",
+      "card": "Gardevoir"
+    },
+    "ex-ruby-sapphire holo ex-master-trainer-deck": {
+      "expansion": "EX Ruby & Sapphire",
+      "language": "English",
+      "card": "Gardevoir"
+    },
+    "ex-ruby-sapphire non-holo ex-master-trainer-deck": {
+      "expansion": "EX Ruby & Sapphire",
+      "language": "English",
+      "card": "Gardevoir"
+    },
+    "ex-ruby-sapphire non-holo world-champs-team-rushdown": {
+      "expansion": "EX Ruby & Sapphire",
+      "language": "English",
+      "card": "Gardevoir"
+    },
+    "ex-power-keepers holo": {
+      "expansion": "EX Power Keepers",
+      "language": "English",
+      "card": "Gardevoir"
+    },
+    "ex-power-keepers non-holo mind-game-theme-deck": {
+      "expansion": "EX Power Keepers",
+      "language": "English",
+      "card": "Gardevoir"
+    },
+    "ex-emerald holo": {
+      "expansion": "EX Emerald",
+      "language": "English",
+      "card": "Gardevoir"
+    },
+    "ex-delta-species holo": {
+      "expansion": "EX Delta Species",
+      "language": "English",
+      "card": "Gardevoir δ"
+    },
+    "ex-delta-species reverse-foil": {
+      "expansion": "EX Delta Species",
+      "language": "English",
+      "card": "Gardevoir δ",
+      "released": "2005",
+      "number": "6/113",
+      "rarity": "Reverse Holo",
+      "psa_10_pop": "5",
+      "cert_number": "60504866",
+      "obtained": "True",
+      "authenticator": "PSA",
+      "grade": "10",
+      "img": "210.jpg",
+      "id": "282.1.1.0"
+    },
+    "secret-wonders holo": {
+      "expansion": "Secret Wonders",
+      "language": "English",
+      "card": "Gardevoir"
+    },
+    "platinum holo": {
+      "expansion": "Platinum",
+      "language": "English",
+      "card": "Gardevoir"
+    },
+    "next-destinies holo": {
+      "expansion": "Next Destinies",
+      "language": "English",
+      "card": "Gardevoir"
+    },
+    "dark-explorers holo": {
+      "expansion": "Dark Explorers",
+      "language": "English",
+      "card": "Gardevoir"
+    },
+    "master-deck-build-box-ex non-holo": {
+      "expansion": "Master Deck Build Box EX",
+      "language": "Japanese",
+      "card": "Gardevoir"
+    },
+    "legendary-treasures holo": {
+      "expansion": "Legendary Treasures",
+      "language": "English",
+      "card": "Gardevoir"
+    },
+    "ancient-origins holo": {
+      "expansion": "Ancient Origins",
+      "language": "English",
+      "card": "Gardevoir"
+    },
+    "lost-thunder holo": {
+      "expansion": "Lost Thunder",
+      "language": "English",
+      "card": "Gardevoir"
+    },
+    "sun-moon-promo holo": {
+      "expansion": "SM-P Promotional Cards",
+      "language": "English",
+      "card": "Gardevoir"
+    },
+    "chilling-reign holo": {
+      "expansion": "Chilling Reign",
+      "language": "English",
+      "card": "Gardevoir"
+    },
+    "vmax-climax holo": {
+      "expansion": "VMAX Climax",
+      "language": "Japanese",
+      "card": "Gardevoir"
+    },
+    "start-deck-100 holo": {
+      "expansion": "Start Deck 100",
+      "language": "Japanese",
+      "card": "Gardevoir"
+    },
+    "astral-radiance full-art": {
+      "expansion": "Astral Radiance",
+      "language": "English",
+      "card": "Gardevoir"
+    },
+    "silver-tempest holo": {
+      "expansion": "Silver Tempest",
+      "language": "English",
+      "card": "Gardevoir"
+    },
+    "silver-tempest full-art": {
+      "expansion": "Silver Tempest",
+      "language": "English",
+      "card": "Gardevoir"
+    },
+    "online-illustration-exhibition not-available": {
+      "expansion": "Pokemon Trading Card Game: Online Illustration Exhibition",
+      "language": "Japanese",
+      "card": "Gardevoir"
+    },
+    "ex-sandstorm holo": {
+      "expansion": "EX Sandstorm",
+      "language": "English",
+      "card": "Gardevoir ex"
+    },
+    "ex-dragon-frontiers holo": {
+      "expansion": "EX Dragon Frontiers",
+      "language": "English",
+      "card": "Gardevoir ex δ"
+    },
+    "celebrations holo": {
+      "expansion": "Celebrations",
+      "language": "English",
+      "card": "Gardevoir ex δ"
+    },
+    "secret-wonders lv.x": {
+      "expansion": "Secret Wonders",
+      "language": "English",
+      "card": "Gardevoir LV.X"
+    }
+  }
+}
