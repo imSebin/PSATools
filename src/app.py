@@ -10,7 +10,7 @@ from PIL import Image
 import menu.menu as mb
 import data.get_portfolio as dat
 
-class app:
+class App:
     def __init__(self, master: ctk.CTk, path):
         self.master = master
         self.res_path = path + "\\res"
@@ -73,7 +73,7 @@ class app:
 
         content_frame = ctk.CTkFrame(self.master, fg_color="#6D5143")
         content_frame.grid(row=0, rowspan=3, column=1, padx=15, pady=5, sticky="ew")
-        raw = Image.open(f"{self.res_path}\\imgs\\282_0_0_0.jpg")
+        raw = Image.open(f"{self.res_path}\\imgs\\cards\\282_0_0_0.jpg")
         img = CTkImage(light_image=raw, dark_image=raw, size=(320, 440)) # 8:11
         panel = ctk.CTkLabel(content_frame, image=img, text="Card")
         panel.image = img # Need to rid of bug that occurs where it makes the image reappear
@@ -85,8 +85,12 @@ class app:
 
         info_frame = ctk.CTkFrame(self.master)
         info_frame.grid(row=0, rowspan=3, column=2, padx=15, pady=5, sticky="nsew")
-        ctk.CTkLabel(info_frame, text=f"Expansion: {self.curr_expansion}", font=("Helvetica", 14, "bold")).pack(expand=True)
-        ctk.CTkLabel(info_frame, text=f"Version: {self.curr_version}", font=("Helvetica", 14, "bold")).pack(expand=True)
+        exp = ctk.CTkTextbox(info_frame, width=350, height=2, wrap="word", font=("Helvetica", 12, "bold"), fg_color="#5A3E32")
+        exp.pack(expand=True)
+        exp.insert(1.0, f"Expansion: {self.curr_expansion}")
+        ver = ctk.CTkTextbox(info_frame, width=350, height=2, wrap="word", font=("Helvetica", 12, "bold"), fg_color="#5A3E32")
+        ver.pack(expand=True)
+        ver.insert(1.0, f"Version: {self.curr_version}")
 
     def change_window(self, new_exp, new_ver):
         # self.cascade(self.master)
@@ -100,7 +104,7 @@ class app:
 
     def menu_bar(self):
         # Menu Bar
-        menu_bar = mb.menu(self.master)
+        menu_bar = mb.Menu(self.master)
         self.master.config(menu=menu_bar.get_menu_bar())
 
     @staticmethod
@@ -109,13 +113,11 @@ class app:
             element.destroy()
 
 if __name__ == '__main__':
-    # cwd = os.getcwd()
-    cwd = "C:\\Users\\sebin\\PycharmProjects\\PSATools"
 
     ctk.set_appearance_mode("System")
-    ctk.set_default_color_theme(cwd + "\\themes\\coffee.json")
+    ctk.set_default_color_theme(os.getcwd() + "\\themes\\coffee.json")
     ctk_obj = ctk.CTk()
 
-    app(ctk_obj, cwd)
+    App(ctk_obj, os.getcwd())
     ctk_obj.mainloop()
 

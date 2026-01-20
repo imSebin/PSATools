@@ -1,0 +1,2176 @@
+{
+    "Base Set Series": {
+        "Base Set": {
+            "ID": "1",
+            "Released": "Jan 9th, 1999",
+            "Cards": {
+                "Official": "102",
+                "Secret": "0",
+                "Extra": "0",
+                "Total": "102"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/Base-Set.logo.119.png",
+            "Icon": "https://den-media.pokellector.com/logos/Base-Set.symbol.119.png"
+        },
+        "Jungle": {
+            "ID": "2",
+            "Released": "Jun 16th, 1999",
+            "Cards": {
+                "Official": "64",
+                "Secret": "0",
+                "Extra": "0",
+                "Total": "64"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/Jungle.logo.120.png",
+            "Icon": "https://den-media.pokellector.com/logos/Jungle.symbol.120.png"
+        },
+        "Wizards of the Coast Promos": {
+            "ID": "3",
+            "Released": "Jul 1st, 1999",
+            "Cards": {
+                "Official": "53",
+                "Secret": "0",
+                "Extra": "1",
+                "Total": "54"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/Wizards-of-the-Coast-Promos.logo.125.png",
+            "Icon": "https://den-media.pokellector.com/logos/Wizards-of-the-Coast-Promos.symbol.125.png"
+        },
+        "Fossil": {
+            "ID": "4",
+            "Released": "Oct 10th, 1999",
+            "Cards": {
+                "Official": "62",
+                "Secret": "0",
+                "Extra": "0",
+                "Total": "62"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/Fossil.logo.121.png",
+            "Icon": "https://den-media.pokellector.com/logos/Fossil.symbol.121.png"
+        },
+        "Base Set 2": {
+            "ID": "5",
+            "Released": "Feb 24th, 2000",
+            "Cards": {
+                "Official": "130",
+                "Secret": "0",
+                "Extra": "0",
+                "Total": "130"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/Base-Set-2.logo.122.png",
+            "Icon": "https://den-media.pokellector.com/logos/Base-Set-2.symbol.122.png"
+        },
+        "Team Rocket": {
+            "ID": "6",
+            "Released": "Apr 24th, 2000",
+            "Cards": {
+                "Official": "82",
+                "Secret": "0",
+                "Extra": "1",
+                "Total": "83"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/Team-Rocket.logo.123.png",
+            "Icon": "https://den-media.pokellector.com/logos/Team-Rocket.symbol.123.png"
+        }
+    },
+    "Gym Heroes Series": {
+        "Gym Heroes": {
+            "ID": "7",
+            "Released": "Aug 14th, 2000",
+            "Cards": {
+                "Official": "132",
+                "Secret": "0",
+                "Extra": "0",
+                "Total": "132"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/Gym-Heroes.logo.117.png",
+            "Icon": "https://den-media.pokellector.com/logos/Gym-Heroes.symbol.117.png"
+        },
+        "Gym Challenge": {
+            "ID": "8",
+            "Released": "Oct 16th, 2000",
+            "Cards": {
+                "Official": "132",
+                "Secret": "0",
+                "Extra": "0",
+                "Total": "132"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/Gym-Challenge.logo.118.png",
+            "Icon": "https://den-media.pokellector.com/logos/Gym-Challenge.symbol.118.png"
+        }
+    },
+    "Topps Chrome Series": {
+        "Topps Series 1": {
+            "ID": "9",
+            "Released": "Jun 1st, 1999",
+            "Cards": {
+                "Official": "78",
+                "Secret": "2 ",
+                "Extra": "0",
+                "Total": "78"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/Topps-Series-1.logo.379.png",
+            "Icon": "https://den-media.pokellector.com/logos/Topps-Series-1.symbol.379.png"
+        },
+        "Topps Series 2": {
+            "ID": "10",
+            "Released": "Jun 1st, 2000",
+            "Cards": {
+                "Official": "72",
+                "Secret": "73 ",
+                "Extra": "0",
+                "Total": "73"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/Topps-Series-2.logo.380.png",
+            "Icon": "https://den-media.pokellector.com/logos/Topps-Series-2.symbol.380.png"
+        },
+        "Topps Series 3": {
+            "ID": "11",
+            "Released": "Dec 1st, 2000",
+            "Cards": {
+                "Official": "72",
+                "Secret": "34 ",
+                "Extra": "0",
+                "Total": "34"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/Topps-Series-3.logo.385.png",
+            "Icon": "https://den-media.pokellector.com/logos/Topps-Series-3.symbol.385.png"
+        }
+    },
+    "Neo Genesis Series": {
+        "Neo Genesis": {
+            "ID": "12",
+            "Released": "Dec 16th, 2000",
+            "Cards": {
+                "Official": "111",
+                "Secret": "0",
+                "Extra": "0",
+                "Total": "111"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/Neo-Genesis.logo.113.png",
+            "Icon": "https://den-media.pokellector.com/logos/Neo-Genesis.symbol.113.png"
+        },
+        "Neo Discovery": {
+            "ID": "13",
+            "Released": "Jun 1st, 2001",
+            "Cards": {
+                "Official": "75",
+                "Secret": "0",
+                "Extra": "0",
+                "Total": "75"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/Neo-Discovery.logo.114.png",
+            "Icon": "https://den-media.pokellector.com/logos/Neo-Discovery.symbol.114.png"
+        },
+        "Southern Islands": {
+            "ID": "14",
+            "Released": "Jul 31st, 2001",
+            "Cards": {
+                "Official": "18",
+                "Secret": "0",
+                "Extra": "0",
+                "Total": "18"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/Southern-Islands.logo.124.png",
+            "Icon": "https://den-media.pokellector.com/logos/Southern-Islands.symbol.124.png"
+        },
+        "Neo Revelation": {
+            "ID": "15",
+            "Released": "Sep 21st, 2001",
+            "Cards": {
+                "Official": "64",
+                "Secret": "2 ",
+                "Extra": "0",
+                "Total": "66"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/Neo-Revelation.logo.115.png",
+            "Icon": "https://den-media.pokellector.com/logos/Neo-Revelation.symbol.115.png"
+        },
+        "Neo Destiny": {
+            "ID": "16",
+            "Released": "Feb 28th, 2002",
+            "Cards": {
+                "Official": "105",
+                "Secret": "8 ",
+                "Extra": "0",
+                "Total": "113"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/Neo-Destiny.logo.116.png",
+            "Icon": "https://den-media.pokellector.com/logos/Neo-Destiny.symbol.116.png"
+        }
+    },
+    "Legendary Collection Series": {
+        "Legendary Collection": {
+            "ID": "17",
+            "Released": "May 24th, 2002",
+            "Cards": {
+                "Official": "110",
+                "Secret": "0",
+                "Extra": "0",
+                "Total": "110"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/Legendary-Collection.logo.112.png",
+            "Icon": "https://den-media.pokellector.com/logos/Legendary-Collection.symbol.112.png"
+        }
+    },
+    "e-Card Series": {
+        "Expedition": {
+            "ID": "18",
+            "Released": "Sep 15th, 2002",
+            "Cards": {
+                "Official": "165",
+                "Secret": "0",
+                "Extra": "0",
+                "Total": "165"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/Expedition.logo.109.png",
+            "Icon": "https://den-media.pokellector.com/logos/Expedition.symbol.109.png"
+        },
+        "Best of Game": {
+            "ID": "19",
+            "Released": "Dec 1st, 2002",
+            "Cards": {
+                "Official": "9",
+                "Secret": "0",
+                "Extra": "0",
+                "Total": "9"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/Best-of-Game.logo.196.png",
+            "Icon": "https://den-media.pokellector.com/logos/Best-of-Game.symbol.196.png"
+        },
+        "Aquapolis": {
+            "ID": "20",
+            "Released": "Jan 15th, 2003",
+            "Cards": {
+                "Official": "147",
+                "Secret": "3 ",
+                "Extra": "32",
+                "Total": "182"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/Aquapolis.logo.110.png",
+            "Icon": "https://den-media.pokellector.com/logos/Aquapolis.symbol.110.png"
+        },
+        "Skyridge": {
+            "ID": "21",
+            "Released": "May 12th, 2003",
+            "Cards": {
+                "Official": "144",
+                "Secret": "6 ",
+                "Extra": "32",
+                "Total": "182"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/Skyridge.logo.111.png",
+            "Icon": "https://den-media.pokellector.com/logos/Skyridge.symbol.111.png"
+        }
+    },
+    "EX Ruby & Sapphire Series": {
+        "EX Ruby & Sapphire": {
+            "ID": "22",
+            "Released": "Jul 1st, 2003",
+            "Cards": {
+                "Official": "109",
+                "Secret": "0",
+                "Extra": "0",
+                "Total": "109"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/Ruby-Sapphire.logo.49.png",
+            "Icon": "https://den-media.pokellector.com/logos/Ruby-Sapphire.symbol.49.png"
+        },
+        "EX Sandstorm": {
+            "ID": "23",
+            "Released": "Sep 17th, 2003",
+            "Cards": {
+                "Official": "100",
+                "Secret": "0",
+                "Extra": "0",
+                "Total": "100"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/EX-Sandstorm.logo.53.png",
+            "Icon": "https://den-media.pokellector.com/logos/EX-Sandstorm.symbol.53.png"
+        },
+        "EX Dragon": {
+            "ID": "24",
+            "Released": "Nov 24th, 2003",
+            "Cards": {
+                "Official": "97",
+                "Secret": "3 ",
+                "Extra": "0",
+                "Total": "100"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/EX-Dragon.logo.54.png",
+            "Icon": "https://den-media.pokellector.com/logos/EX-Dragon.symbol.54.png"
+        },
+        "EX Team Magma vs Team Aqua": {
+            "ID": "25",
+            "Released": "Mar 1st, 2004",
+            "Cards": {
+                "Official": "95",
+                "Secret": "2 ",
+                "Extra": "0",
+                "Total": "97"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/EX-Team-Magma-vs-Team-Aqua.logo.55.png",
+            "Icon": "https://den-media.pokellector.com/logos/EX-Team-Magma-vs-Team-Aqua.symbol.55.png"
+        },
+        "EX Hidden Legends": {
+            "ID": "26",
+            "Released": "Jun 1st, 2004",
+            "Cards": {
+                "Official": "101",
+                "Secret": "1 ",
+                "Extra": "0",
+                "Total": "102"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/EX-Hidden-Legends.logo.56.png",
+            "Icon": "https://den-media.pokellector.com/logos/EX-Hidden-Legends.symbol.56.png"
+        },
+        "EX FireRed & LeafGreen": {
+            "ID": "27",
+            "Released": "Aug 30th, 2004",
+            "Cards": {
+                "Official": "112",
+                "Secret": "1 ",
+                "Extra": "3",
+                "Total": "116"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/EX-FireRed-LeafGreen.logo.57.png",
+            "Icon": "https://den-media.pokellector.com/logos/EX-FireRed-LeafGreen.symbol.57.png"
+        },
+        "EX Team Rocket Returns": {
+            "ID": "28",
+            "Released": "Nov 1st, 2004",
+            "Cards": {
+                "Official": "109",
+                "Secret": "2 ",
+                "Extra": "0",
+                "Total": "111"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/EX-Team-Rocket-Returns.logo.58.png",
+            "Icon": "https://den-media.pokellector.com/logos/EX-Team-Rocket-Returns.symbol.58.png"
+        },
+        "EX Deoxys": {
+            "ID": "29",
+            "Released": "Feb 1st, 2005",
+            "Cards": {
+                "Official": "107",
+                "Secret": "0",
+                "Extra": "1",
+                "Total": "108"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/EX-Deoxys.logo.59.png",
+            "Icon": "https://den-media.pokellector.com/logos/EX-Deoxys.symbol.59.png"
+        },
+        "EX Emerald": {
+            "ID": "30",
+            "Released": "May 9th, 2005",
+            "Cards": {
+                "Official": "106",
+                "Secret": "1 ",
+                "Extra": "0",
+                "Total": "107"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/EX-Emerald.logo.60.png",
+            "Icon": "https://den-media.pokellector.com/logos/EX-Emerald.symbol.60.png"
+        },
+        "EX Unseen Forces": {
+            "ID": "31",
+            "Released": "Aug 22nd, 2005",
+            "Cards": {
+                "Official": "115",
+                "Secret": "0",
+                "Extra": "2",
+                "Total": "117"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/EX-Unseen-Forces.logo.61.png",
+            "Icon": "https://den-media.pokellector.com/logos/EX-Unseen-Forces.symbol.61.png"
+        },
+        "EX Unseen Forces Unown Collection": {
+            "ID": "32",
+            "Released": "Aug 22nd, 2005",
+            "Cards": {
+                "Official": "28",
+                "Secret": "0",
+                "Extra": "0",
+                "Total": "28"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/EX-Unseen-Forces-Unown-Collection.logo.161.png",
+            "Icon": "https://den-media.pokellector.com/logos/EX-Unseen-Forces-Unown-Collection.symbol.161.png"
+        },
+        "EX Delta Species": {
+            "ID": "33",
+            "Released": "Oct 31st, 2005",
+            "Cards": {
+                "Official": "113",
+                "Secret": "1 ",
+                "Extra": "0",
+                "Total": "114"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/EX-Delta-Species.logo.62.png",
+            "Icon": "https://den-media.pokellector.com/logos/EX-Delta-Species.symbol.62.png"
+        },
+        "EX Legend Maker": {
+            "ID": "34",
+            "Released": "Feb 13th, 2006",
+            "Cards": {
+                "Official": "92",
+                "Secret": "1 ",
+                "Extra": "0",
+                "Total": "93"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/EX-Legend-Maker.logo.63.png",
+            "Icon": "https://den-media.pokellector.com/logos/EX-Legend-Maker.symbol.63.png"
+        },
+        "EX Holon Phantoms": {
+            "ID": "35",
+            "Released": "May 3rd, 2006",
+            "Cards": {
+                "Official": "110",
+                "Secret": "1 ",
+                "Extra": "0",
+                "Total": "111"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/EX-Holon-Phantoms.logo.64.png",
+            "Icon": "https://den-media.pokellector.com/logos/EX-Holon-Phantoms.symbol.64.png"
+        },
+        "EX Crystal Guardians": {
+            "ID": "36",
+            "Released": "Aug 30th, 2006",
+            "Cards": {
+                "Official": "100",
+                "Secret": "0",
+                "Extra": "0",
+                "Total": "100"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/EX-Crystal-Guardians.logo.65.png",
+            "Icon": "https://den-media.pokellector.com/logos/EX-Crystal-Guardians.symbol.65.png"
+        },
+        "EX Dragon Frontiers": {
+            "ID": "37",
+            "Released": "Nov 8th, 2006",
+            "Cards": {
+                "Official": "101",
+                "Secret": "0",
+                "Extra": "0",
+                "Total": "101"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/EX-Dragon-Frontiers.logo.66.png",
+            "Icon": "https://den-media.pokellector.com/logos/EX-Dragon-Frontiers.symbol.66.png"
+        },
+        "EX Power Keepers": {
+            "ID": "38",
+            "Released": "Feb 14th, 2007",
+            "Cards": {
+                "Official": "108",
+                "Secret": "0",
+                "Extra": "0",
+                "Total": "108"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/EX-Power-Keepers.logo.67.png",
+            "Icon": "https://den-media.pokellector.com/logos/EX-Power-Keepers.symbol.67.png"
+        }
+    },
+    "Diamond & Pearl Series": {
+        "Diamond & Pearl": {
+            "ID": "39",
+            "Released": "May 1st, 2007",
+            "Cards": {
+                "Official": "130",
+                "Secret": "0",
+                "Extra": "0",
+                "Total": "130"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/Diamond-Pearl.logo.42.png",
+            "Icon": "https://den-media.pokellector.com/logos/Diamond-Pearl.symbol.42.png"
+        },
+        "DP Black Star Promos": {
+            "ID": "40",
+            "Released": "May 1st, 2007",
+            "Cards": {
+                "Official": "56",
+                "Secret": "0",
+                "Extra": "0",
+                "Total": "56"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/DP-Black-Star-Promos.logo.101.png",
+            "Icon": "https://den-media.pokellector.com/logos/DP-Black-Star-Promos.symbol.101.png"
+        },
+        "Mysterious Treasures": {
+            "ID": "41",
+            "Released": "Aug 1st, 2007",
+            "Cards": {
+                "Official": "123",
+                "Secret": "1 ",
+                "Extra": "0",
+                "Total": "124"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/Mysterious-Treasures.logo.43.png",
+            "Icon": "https://den-media.pokellector.com/logos/Mysterious-Treasures.symbol.43.png"
+        },
+        "Secret Wonders": {
+            "ID": "42",
+            "Released": "Nov 1st, 2007",
+            "Cards": {
+                "Official": "132",
+                "Secret": "0",
+                "Extra": "0",
+                "Total": "132"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/Secret-Wonders.logo.44.png",
+            "Icon": "https://den-media.pokellector.com/logos/Secret-Wonders.symbol.44.png"
+        },
+        "Great Encounters": {
+            "ID": "43",
+            "Released": "Feb 1st, 2008",
+            "Cards": {
+                "Official": "106",
+                "Secret": "0",
+                "Extra": "0",
+                "Total": "106"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/Great-Encounters.logo.45.png",
+            "Icon": "https://den-media.pokellector.com/logos/Great-Encounters.symbol.45.png"
+        },
+        "Majestic Dawn": {
+            "ID": "44",
+            "Released": "May 1st, 2008",
+            "Cards": {
+                "Official": "100",
+                "Secret": "0",
+                "Extra": "0",
+                "Total": "100"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/Majestic-Dawn.logo.46.png",
+            "Icon": "https://den-media.pokellector.com/logos/Majestic-Dawn.symbol.46.png"
+        },
+        "Legends Awakened": {
+            "ID": "45",
+            "Released": "Aug 1st, 2008",
+            "Cards": {
+                "Official": "146",
+                "Secret": "0",
+                "Extra": "0",
+                "Total": "146"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/Legends-Awakened.logo.47.png",
+            "Icon": "https://den-media.pokellector.com/logos/Legends-Awakened.symbol.47.png"
+        },
+        "Stormfront": {
+            "ID": "46",
+            "Released": "Nov 1st, 2008",
+            "Cards": {
+                "Official": "100",
+                "Secret": "6 ",
+                "Extra": "0",
+                "Total": "106"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/Stormfront.logo.48.png",
+            "Icon": "https://den-media.pokellector.com/logos/Stormfront.symbol.48.png"
+        }
+    },
+    "Nintendo Promos Series": {
+        "Nintendo Promos": {
+            "ID": "47",
+            "Released": "Jan 14th, 2003",
+            "Cards": {
+                "Official": "40",
+                "Secret": "0",
+                "Extra": "0",
+                "Total": "40"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/Nintendo-Promos.logo.50.png",
+            "Icon": "https://den-media.pokellector.com/logos/Nintendo-Promos.symbol.50.png"
+        },
+        "POP Series 1": {
+            "ID": "48",
+            "Released": "Sep 1st, 2004",
+            "Cards": {
+                "Official": "17",
+                "Secret": "0",
+                "Extra": "0",
+                "Total": "17"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/POP-Series-1.logo.68.png",
+            "Icon": "https://den-media.pokellector.com/logos/POP-Series-1.symbol.68.png"
+        },
+        "POP Series 2": {
+            "ID": "49",
+            "Released": "Aug 1st, 2005",
+            "Cards": {
+                "Official": "17",
+                "Secret": "0",
+                "Extra": "0",
+                "Total": "17"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/POP-Series-2.logo.69.png",
+            "Icon": "https://den-media.pokellector.com/logos/POP-Series-2.symbol.69.png"
+        },
+        "POP Series 3": {
+            "ID": "50",
+            "Released": "Apr 1st, 2006",
+            "Cards": {
+                "Official": "17",
+                "Secret": "0",
+                "Extra": "0",
+                "Total": "17"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/POP-Series-3.logo.70.png",
+            "Icon": "https://den-media.pokellector.com/logos/POP-Series-3.symbol.70.png"
+        },
+        "POP Series 4": {
+            "ID": "51",
+            "Released": "Aug 1st, 2006",
+            "Cards": {
+                "Official": "17",
+                "Secret": "0",
+                "Extra": "0",
+                "Total": "17"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/POP-Series-4.logo.71.png",
+            "Icon": "https://den-media.pokellector.com/logos/POP-Series-4.symbol.71.png"
+        },
+        "POP Series 5": {
+            "ID": "52",
+            "Released": "Mar 1st, 2007",
+            "Cards": {
+                "Official": "17",
+                "Secret": "0",
+                "Extra": "0",
+                "Total": "17"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/POP-Series-5.logo.102.png",
+            "Icon": "https://den-media.pokellector.com/logos/POP-Series-5.symbol.102.png"
+        },
+        "POP Series 6": {
+            "ID": "53",
+            "Released": "Sep 1st, 2007",
+            "Cards": {
+                "Official": "17",
+                "Secret": "0",
+                "Extra": "0",
+                "Total": "17"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/POP-Series-6.logo.103.png",
+            "Icon": "https://den-media.pokellector.com/logos/POP-Series-6.symbol.103.png"
+        },
+        "POP Series 7": {
+            "ID": "54",
+            "Released": "Mar 1st, 2008",
+            "Cards": {
+                "Official": "17",
+                "Secret": "0",
+                "Extra": "0",
+                "Total": "17"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/POP-Series-7.logo.104.png",
+            "Icon": "https://den-media.pokellector.com/logos/POP-Series-7.symbol.104.png"
+        },
+        "POP Series 8": {
+            "ID": "55",
+            "Released": "Sep 1st, 2008",
+            "Cards": {
+                "Official": "17",
+                "Secret": "0",
+                "Extra": "0",
+                "Total": "17"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/POP-Series-8.logo.105.png",
+            "Icon": "https://den-media.pokellector.com/logos/POP-Series-8.symbol.105.png"
+        },
+        "POP Series 9": {
+            "ID": "56",
+            "Released": "Mar 1st, 2009",
+            "Cards": {
+                "Official": "17",
+                "Secret": "0",
+                "Extra": "0",
+                "Total": "17"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/POP-Series-9.logo.106.png",
+            "Icon": "https://den-media.pokellector.com/logos/POP-Series-9.symbol.106.png"
+        }
+    },
+    "Platinum Series": {
+        "Platinum": {
+            "ID": "57",
+            "Released": "Feb 11th, 2009",
+            "Cards": {
+                "Official": "127",
+                "Secret": "6 ",
+                "Extra": "0",
+                "Total": "133"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/Platinum.logo.38.png",
+            "Icon": "https://den-media.pokellector.com/logos/Platinum.symbol.38.png"
+        },
+        "Platinum - Rising Rivals": {
+            "ID": "58",
+            "Released": "May 16th, 2009",
+            "Cards": {
+                "Official": "111",
+                "Secret": "9 ",
+                "Extra": "0",
+                "Total": "120"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/Platinum-Rising-Rivals.logo.39.png",
+            "Icon": "https://den-media.pokellector.com/logos/Platinum-Rising-Rivals.symbol.39.png"
+        },
+        "Platinum - Supreme Victors": {
+            "ID": "59",
+            "Released": "Aug 19th, 2009",
+            "Cards": {
+                "Official": "147",
+                "Secret": "6 ",
+                "Extra": "0",
+                "Total": "153"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/Platinum-Supreme-Victors.logo.40.png",
+            "Icon": "https://den-media.pokellector.com/logos/Platinum-Supreme-Victors.symbol.40.png"
+        },
+        "Platinum - Arceus": {
+            "ID": "60",
+            "Released": "Nov 4th, 2009",
+            "Cards": {
+                "Official": "99",
+                "Secret": "12 ",
+                "Extra": "0",
+                "Total": "111"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/Platinum-Arceus.logo.41.png",
+            "Icon": "https://den-media.pokellector.com/logos/Platinum-Arceus.symbol.41.png"
+        },
+        "Pokemon Rumble": {
+            "ID": "61",
+            "Released": "Dec 2nd, 2009",
+            "Cards": {
+                "Official": "16",
+                "Secret": "0",
+                "Extra": "0",
+                "Total": "16"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/Pokemon-Rumble.logo.52.png",
+            "Icon": "https://den-media.pokellector.com/logos/Pokemon-Rumble.symbol.52.png"
+        }
+    },
+    "HeartGold SoulSilver Series": {
+        "HeartGold SoulSilver": {
+            "ID": "62",
+            "Released": "Feb 10th, 2010",
+            "Cards": {
+                "Official": "123",
+                "Secret": "1 ",
+                "Extra": "0",
+                "Total": "124"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/HeartGold-SoulSilver.logo.34.png",
+            "Icon": "https://den-media.pokellector.com/logos/HeartGold-SoulSilver.symbol.34.png"
+        },
+        "HeartGold SoulSilver Promos": {
+            "ID": "63",
+            "Released": "Feb 11th, 2010",
+            "Cards": {
+                "Official": "25",
+                "Secret": "0",
+                "Extra": "0",
+                "Total": "25"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/HeartGold-SoulSilver-Promos.logo.107.png",
+            "Icon": "https://den-media.pokellector.com/logos/HeartGold-SoulSilver-Promos.symbol.107.png"
+        },
+        "HS Unleashed": {
+            "ID": "64",
+            "Released": "May 12th, 2010",
+            "Cards": {
+                "Official": "95",
+                "Secret": "1 ",
+                "Extra": "0",
+                "Total": "96"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/HS-Unleashed.logo.35.png",
+            "Icon": "https://den-media.pokellector.com/logos/HS-Unleashed.symbol.35.png"
+        },
+        "HS Undaunted": {
+            "ID": "65",
+            "Released": "Aug 18th, 2010",
+            "Cards": {
+                "Official": "90",
+                "Secret": "1 ",
+                "Extra": "0",
+                "Total": "91"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/HS-Undaunted.logo.36.png",
+            "Icon": "https://den-media.pokellector.com/logos/HS-Undaunted.symbol.36.png"
+        },
+        "HS Triumphant": {
+            "ID": "66",
+            "Released": "Nov 3rd, 2010",
+            "Cards": {
+                "Official": "102",
+                "Secret": "1 ",
+                "Extra": "0",
+                "Total": "103"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/HS-Triumphant.logo.37.png",
+            "Icon": "https://den-media.pokellector.com/logos/HS-Triumphant.symbol.37.png"
+        }
+    },
+    "Call of Legends Series": {
+        "Call of Legends": {
+            "ID": "67",
+            "Released": "Feb 9th, 2011",
+            "Cards": {
+                "Official": "95",
+                "Secret": "11 ",
+                "Extra": "0",
+                "Total": "106"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/Call-of-Legends.logo.33.png",
+            "Icon": "https://den-media.pokellector.com/logos/Call-of-Legends.symbol.33.png"
+        }
+    },
+    "Black & White Promos Series": {
+        "Black & White Promos": {
+            "ID": "68",
+            "Released": "Apr 26th, 2011",
+            "Cards": {
+                "Official": "101",
+                "Secret": "0",
+                "Extra": "3",
+                "Total": "104"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/Black-White-Promos.logo.9.png",
+            "Icon": "https://den-media.pokellector.com/logos/Black-White-Promos.symbol.9.png"
+        },
+        "McDonald's Collection (2011)": {
+            "ID": "69",
+            "Released": "Jun 17th, 2011",
+            "Cards": {
+                "Official": "12",
+                "Secret": "0",
+                "Extra": "0",
+                "Total": "12"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/McDonalds-Promos-2011.logo.10.png",
+            "Icon": "https://den-media.pokellector.com/logos/McDonalds-Promos-2011.symbol.10.png"
+        },
+        "McDonald's Collection (2012)": {
+            "ID": "70",
+            "Released": "Jun 15th, 2012",
+            "Cards": {
+                "Official": "12",
+                "Secret": "0",
+                "Extra": "0",
+                "Total": "12"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/McDonalds-Promos-2012.logo.11.png",
+            "Icon": "https://den-media.pokellector.com/logos/McDonalds-Promos-2012.symbol.11.png"
+        },
+        "McDonald's Collection (2013)": {
+            "ID": "71",
+            "Released": "Nov 1st, 2013",
+            "Cards": {
+                "Official": "12",
+                "Secret": "0",
+                "Extra": "0",
+                "Total": "12"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/McDonalds-Promos-2013.logo.147.png",
+            "Icon": "https://den-media.pokellector.com/logos/McDonalds-Collection-2013.symbol.147.png"
+        }
+    },
+    "Black & White Series": {
+        "Black & White": {
+            "ID": "72",
+            "Released": "Apr 25th, 2011",
+            "Cards": {
+                "Official": "114",
+                "Secret": "1 ",
+                "Extra": "0",
+                "Total": "115"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/Black-White.logo.1.png",
+            "Icon": "https://den-media.pokellector.com/logos/Black-White.symbol.1.png"
+        },
+        "Emerging Powers": {
+            "ID": "73",
+            "Released": "Aug 31st, 2011",
+            "Cards": {
+                "Official": "98",
+                "Secret": "0",
+                "Extra": "0",
+                "Total": "98"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/Emerging-Powers.logo.3.png",
+            "Icon": "https://den-media.pokellector.com/logos/Emerging-Powers.symbol.3.png"
+        },
+        "Noble Victories": {
+            "ID": "74",
+            "Released": "Nov 16th, 2011",
+            "Cards": {
+                "Official": "101",
+                "Secret": "1 ",
+                "Extra": "0",
+                "Total": "102"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/Noble-Victories.logo.4.png",
+            "Icon": "https://den-media.pokellector.com/logos/Noble-Victories.symbol.4.png"
+        },
+        "Next Destinies": {
+            "ID": "75",
+            "Released": "Feb 8th, 2012",
+            "Cards": {
+                "Official": "99",
+                "Secret": "4 ",
+                "Extra": "0",
+                "Total": "103"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/Next-Destinies.logo.5.png",
+            "Icon": "https://den-media.pokellector.com/logos/Next-Destinies.symbol.5.png"
+        },
+        "Dark Explorers": {
+            "ID": "76",
+            "Released": "May 9th, 2012",
+            "Cards": {
+                "Official": "108",
+                "Secret": "3 ",
+                "Extra": "0",
+                "Total": "111"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/Dark-Explorers.logo.6.png",
+            "Icon": "https://den-media.pokellector.com/logos/Dark-Explorers.symbol.6.png"
+        },
+        "Dragons Exalted": {
+            "ID": "77",
+            "Released": "Aug 15th, 2012",
+            "Cards": {
+                "Official": "124",
+                "Secret": "4 ",
+                "Extra": "0",
+                "Total": "128"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/Dragons-Exalted.logo.2.png",
+            "Icon": "https://den-media.pokellector.com/logos/Dragons-Exalted.symbol.2.png"
+        },
+        "Dragon Vault": {
+            "ID": "78",
+            "Released": "Oct 5th, 2012",
+            "Cards": {
+                "Official": "20",
+                "Secret": "1 ",
+                "Extra": "0",
+                "Total": "21"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/Dragon-Vault.logo.8.png",
+            "Icon": "https://den-media.pokellector.com/logos/Dragon-Vault.symbol.8.png"
+        },
+        "Boundaries Crossed": {
+            "ID": "79",
+            "Released": "Nov 7th, 2012",
+            "Cards": {
+                "Official": "149",
+                "Secret": "4 ",
+                "Extra": "0",
+                "Total": "153"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/Boundaries-Crossed.logo.7.png",
+            "Icon": "https://den-media.pokellector.com/logos/Boundaries-Crossed.symbol.7.png"
+        },
+        "Plasma Storm": {
+            "ID": "80",
+            "Released": "Feb 6th, 2013",
+            "Cards": {
+                "Official": "135",
+                "Secret": "3 ",
+                "Extra": "0",
+                "Total": "138"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/Plasma-Storm.logo.26.png",
+            "Icon": "https://den-media.pokellector.com/logos/Plasma-Storm.symbol.26.png"
+        },
+        "Plasma Freeze": {
+            "ID": "81",
+            "Released": "May 8th, 2013",
+            "Cards": {
+                "Official": "116",
+                "Secret": "6 ",
+                "Extra": "0",
+                "Total": "122"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/Plasma-Freeze.logo.51.png",
+            "Icon": "https://den-media.pokellector.com/logos/Plasma-Freeze.symbol.51.png"
+        },
+        "Plasma Blast": {
+            "ID": "82",
+            "Released": "Aug 14th, 2013",
+            "Cards": {
+                "Official": "101",
+                "Secret": "5 ",
+                "Extra": "0",
+                "Total": "105"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/Plasma-Blast.logo.131.png",
+            "Icon": "https://den-media.pokellector.com/logos/Plasma-Blast.symbol.131.png"
+        },
+        "Legendary Treasures": {
+            "ID": "83",
+            "Released": "Nov 6th, 2013",
+            "Cards": {
+                "Official": "113",
+                "Secret": "2 ",
+                "Extra": "0",
+                "Total": "115"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/Legendary-Treasures.logo.138.png",
+            "Icon": "https://den-media.pokellector.com/logos/Legendary-Treasures.symbol.138.png"
+        },
+        "Radiant Collection": {
+            "ID": "84",
+            "Released": "Nov 6th, 2013",
+            "Cards": {
+                "Official": "25",
+                "Secret": "0",
+                "Extra": "0",
+                "Total": "25"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/Radiant-Collection.logo.148.png",
+            "Icon": "https://den-media.pokellector.com/logos/Radiant-Collection.symbol.148.png"
+        }
+    },
+    "XY Series": {
+        "XY": {
+            "ID": "85",
+            "Released": "Feb 5th, 2014",
+            "Cards": {
+                "Official": "146",
+                "Secret": "0",
+                "Extra": "0",
+                "Total": "146"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/XY.logo.142.png",
+            "Icon": "https://den-media.pokellector.com/logos/XY.symbol.142.png"
+        },
+        "XY Promos": {
+            "ID": "86",
+            "Released": "Oct 12th, 2013",
+            "Cards": {
+                "Official": "211",
+                "Secret": "0",
+                "Extra": "0",
+                "Total": "211"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/XY-Promos.logo.143.png",
+            "Icon": "https://den-media.pokellector.com/logos/XY-Promos.symbol.143.png"
+        },
+        "Kalos Starter Set": {
+            "ID": "87",
+            "Released": "Nov 8th, 2013",
+            "Cards": {
+                "Official": "45",
+                "Secret": "0",
+                "Extra": "0",
+                "Total": "45"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/Kalos-Starter-Set.logo.150.png",
+            "Icon": "https://den-media.pokellector.com/logos/Kalos-Starter-Set.symbol.150.png"
+        },
+        "XY Flashfire": {
+            "ID": "88",
+            "Released": "May 7th, 2014",
+            "Cards": {
+                "Official": "106",
+                "Secret": "3 ",
+                "Extra": "0",
+                "Total": "109"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/XY-Flashfire.logo.155.png",
+            "Icon": "https://den-media.pokellector.com/logos/XY-Flashfire.symbol.155.png"
+        },
+        "McDonald's Collection (2014)": {
+            "ID": "89",
+            "Released": "May 23rd, 2014",
+            "Cards": {
+                "Official": "12",
+                "Secret": "0",
+                "Extra": "0",
+                "Total": "12"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/McDonalds-Collection-2014.logo.158.png",
+            "Icon": "https://den-media.pokellector.com/logos/McDonalds-Collection-2014.symbol.158.png"
+        },
+        "Furious Fists": {
+            "ID": "90",
+            "Released": "Aug 13th, 2014",
+            "Cards": {
+                "Official": "111",
+                "Secret": "2 ",
+                "Extra": "0",
+                "Total": "113"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/Furious-Fists.logo.159.png",
+            "Icon": "https://den-media.pokellector.com/logos/Furious-Fists.symbol.159.png"
+        },
+        "Phantom Forces": {
+            "ID": "91",
+            "Released": "Nov 5th, 2014",
+            "Cards": {
+                "Official": "119",
+                "Secret": "0",
+                "Extra": "3",
+                "Total": "122"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/Phantom-Forces.logo.162.png",
+            "Icon": "https://den-media.pokellector.com/logos/Phantom-Forces.symbol.162.png"
+        },
+        "Primal Clash": {
+            "ID": "92",
+            "Released": "Feb 4th, 2015",
+            "Cards": {
+                "Official": "160",
+                "Secret": "4 ",
+                "Extra": "0",
+                "Total": "164"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/Primal-Clash.logo.166.png",
+            "Icon": "https://den-media.pokellector.com/logos/Primal-Clash.symbol.166.png"
+        },
+        "Double Crisis": {
+            "ID": "93",
+            "Released": "Mar 25th, 2015",
+            "Cards": {
+                "Official": "34",
+                "Secret": "0",
+                "Extra": "0",
+                "Total": "34"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/Double-Crisis.logo.172.png",
+            "Icon": "https://den-media.pokellector.com/logos/Double-Crisis.symbol.172.png"
+        },
+        "Roaring Skies": {
+            "ID": "94",
+            "Released": "May 6th, 2015",
+            "Cards": {
+                "Official": "108",
+                "Secret": "2 ",
+                "Extra": "0",
+                "Total": "110"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/Roaring-Skies.logo.169.png",
+            "Icon": "https://den-media.pokellector.com/logos/Roaring-Skies.symbol.169.png"
+        },
+        "Ancient Origins": {
+            "ID": "95",
+            "Released": "Aug 12th, 2015",
+            "Cards": {
+                "Official": "98",
+                "Secret": "2 ",
+                "Extra": "0",
+                "Total": "100"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/Ancient-Origins.logo.174.png",
+            "Icon": "https://den-media.pokellector.com/logos/Ancient-Origins.symbol.174.png"
+        },
+        "XY BREAKthrough": {
+            "ID": "96",
+            "Released": "Nov 4th, 2015",
+            "Cards": {
+                "Official": "162",
+                "Secret": "2 ",
+                "Extra": "0",
+                "Total": "164"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/XY-Breakthrough.logo.179.png",
+            "Icon": "https://den-media.pokellector.com/logos/XY-Breakthrough.symbol.179.png"
+        },
+        "McDonald's Collection (2015)": {
+            "ID": "97",
+            "Released": "Nov 27th, 2015",
+            "Cards": {
+                "Official": "12",
+                "Secret": "0",
+                "Extra": "0",
+                "Total": "12"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/McDonalds-Collection-2015.logo.182.png",
+            "Icon": "https://den-media.pokellector.com/logos/McDonalds-Collection-2015.symbol.182.png"
+        },
+        "BREAKPoint": {
+            "ID": "98",
+            "Released": "Feb 3rd, 2016",
+            "Cards": {
+                "Official": "122",
+                "Secret": "1 ",
+                "Extra": "0",
+                "Total": "123"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/BREAKPoint.logo.183.png",
+            "Icon": "https://den-media.pokellector.com/logos/BREAKPoint.symbol.183.png"
+        },
+        "Generations": {
+            "ID": "99",
+            "Released": "Feb 22nd, 2016",
+            "Cards": {
+                "Official": "83",
+                "Secret": "0",
+                "Extra": "32",
+                "Total": "115"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/Generations.logo.187.png",
+            "Icon": "https://den-media.pokellector.com/logos/Generations.symbol.187.png"
+        },
+        "Fates Collide": {
+            "ID": "100",
+            "Released": "May 2nd, 2016",
+            "Cards": {
+                "Official": "124",
+                "Secret": "1 ",
+                "Extra": "0",
+                "Total": "125"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/Fates-Collide.logo.188.png",
+            "Icon": "https://den-media.pokellector.com/logos/Fates-Collide.symbol.188.png"
+        },
+        "Steam Siege": {
+            "ID": "101",
+            "Released": "Aug 3rd, 2016",
+            "Cards": {
+                "Official": "114",
+                "Secret": "2 ",
+                "Extra": "0",
+                "Total": "116"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/Steam-Siege.logo.192.png",
+            "Icon": "https://den-media.pokellector.com/logos/Steam-Siege.symbol.192.png"
+        },
+        "McDonald's Collection (2016)": {
+            "ID": "102",
+            "Released": "Aug 20th, 2016",
+            "Cards": {
+                "Official": "12",
+                "Secret": "0",
+                "Extra": "0",
+                "Total": "12"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/McDonalds-Collection-2016.logo.207.png",
+            "Icon": "https://den-media.pokellector.com/logos/McDonalds-Collection-2016.symbol.207.png"
+        },
+        "Evolutions": {
+            "ID": "103",
+            "Released": "Nov 2nd, 2016",
+            "Cards": {
+                "Official": "108",
+                "Secret": "5 ",
+                "Extra": "0",
+                "Total": "113"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/Evolutions.logo.197.png",
+            "Icon": "https://den-media.pokellector.com/logos/Evolutions.symbol.197.png"
+        }
+    },
+    "Sun & Moon Series": {
+        "Sun & Moon": {
+            "ID": "104",
+            "Released": "Feb 3rd, 2017",
+            "Cards": {
+                "Official": "149",
+                "Secret": "14 ",
+                "Extra": "9",
+                "Total": "172"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/Sun-Moon.logo.205.png",
+            "Icon": "https://den-media.pokellector.com/logos/Sun-Moon.symbol.205.png"
+        },
+        "Sun & Moon Promos": {
+            "ID": "105",
+            "Released": "Nov 18th, 2016",
+            "Cards": {
+                "Official": "248",
+                "Secret": "0",
+                "Extra": "3",
+                "Total": "251"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/Sun-Moon-Promos.logo.209.png",
+            "Icon": "https://den-media.pokellector.com/logos/Sun-Moon-Promos.symbol.209.png"
+        },
+        "Guardians Rising": {
+            "ID": "106",
+            "Released": "May 5th, 2017",
+            "Cards": {
+                "Official": "145",
+                "Secret": "24 ",
+                "Extra": "0",
+                "Total": "169"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/Guardians-Rising.logo.220.png",
+            "Icon": "https://den-media.pokellector.com/logos/Guardians-Rising.symbol.220.png"
+        },
+        "McDonald's Collection (2017)": {
+            "ID": "107",
+            "Released": "Aug 3rd, 2017",
+            "Cards": {
+                "Official": "12",
+                "Secret": "0",
+                "Extra": "0",
+                "Total": "12"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/McDonalds-Collection-2017.logo.230.png",
+            "Icon": "https://den-media.pokellector.com/logos/McDonalds-Collection-2017.symbol.230.png"
+        },
+        "Burning Shadows": {
+            "ID": "108",
+            "Released": "Aug 4th, 2017",
+            "Cards": {
+                "Official": "147",
+                "Secret": "22 ",
+                "Extra": "0",
+                "Total": "169"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/Burning-Shadows.logo.225.png",
+            "Icon": "https://den-media.pokellector.com/logos/Burning-Shadows.symbol.225.png"
+        },
+        "Shining Legends": {
+            "ID": "109",
+            "Released": "Oct 6th, 2017",
+            "Cards": {
+                "Official": "73",
+                "Secret": "5 ",
+                "Extra": "0",
+                "Total": "78"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/Shining-Legends.logo.231.png",
+            "Icon": "https://den-media.pokellector.com/logos/Shining-Legends.symbol.231.png"
+        },
+        "Crimson Invasion": {
+            "ID": "110",
+            "Released": "Nov 3rd, 2017",
+            "Cards": {
+                "Official": "111",
+                "Secret": "13 ",
+                "Extra": "0",
+                "Total": "124"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/Crimson-Invasion.logo.229.png",
+            "Icon": "https://den-media.pokellector.com/logos/Crimson-Invasion.symbol.229.png"
+        },
+        "Ultra Prism": {
+            "ID": "111",
+            "Released": "Feb 2nd, 2018",
+            "Cards": {
+                "Official": "156",
+                "Secret": "17 ",
+                "Extra": "0",
+                "Total": "173"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/Ultra-Prism.logo.234.png",
+            "Icon": "https://den-media.pokellector.com/logos/Ultra-Prism.symbol.234.png"
+        },
+        "Forbidden Light": {
+            "ID": "112",
+            "Released": "May 4th, 2018",
+            "Cards": {
+                "Official": "131",
+                "Secret": "15 ",
+                "Extra": "0",
+                "Total": "146"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/Forbidden-Light.logo.239.png",
+            "Icon": "https://den-media.pokellector.com/logos/Forbidden-Light.symbol.239.png"
+        },
+        "Celestial Storm": {
+            "ID": "113",
+            "Released": "Aug 3rd, 2018",
+            "Cards": {
+                "Official": "168",
+                "Secret": "15 ",
+                "Extra": "0",
+                "Total": "183"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/Celestial-Storm.logo.244.png",
+            "Icon": "https://den-media.pokellector.com/logos/Celestial-Storm.symbol.244.png"
+        },
+        "Dragon Majesty": {
+            "ID": "114",
+            "Released": "Sep 7th, 2018",
+            "Cards": {
+                "Official": "70",
+                "Secret": "8 ",
+                "Extra": "0",
+                "Total": "78"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/Dragon-Majesty.logo.257.png",
+            "Icon": "https://den-media.pokellector.com/logos/Dragon-Majesty.symbol.257.png"
+        },
+        "McDonald's Collection (2018)": {
+            "ID": "115",
+            "Released": "Oct 19th, 2018",
+            "Cards": {
+                "Official": "12",
+                "Secret": "0",
+                "Extra": "0",
+                "Total": "12"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/McDonalds-Collection-2018.logo.265.png",
+            "Icon": "https://den-media.pokellector.com/logos/McDonalds-Collection-2018.symbol.265.png"
+        },
+        "Lost Thunder": {
+            "ID": "116",
+            "Released": "Nov 2nd, 2018",
+            "Cards": {
+                "Official": "214",
+                "Secret": "22 ",
+                "Extra": "0",
+                "Total": "236"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/Lost-Thunder.logo.259.png",
+            "Icon": "https://den-media.pokellector.com/logos/Lost-Thunder.symbol.259.png"
+        },
+        "Team Up": {
+            "ID": "117",
+            "Released": "Jan 31st, 2019",
+            "Cards": {
+                "Official": "181",
+                "Secret": "15 ",
+                "Extra": "9",
+                "Total": "205"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/Team-Up.logo.261.png",
+            "Icon": "https://den-media.pokellector.com/logos/Team-Up.symbol.261.png"
+        },
+        "Detective Pikachu": {
+            "ID": "118",
+            "Released": "Mar 29th, 2019",
+            "Cards": {
+                "Official": "18",
+                "Secret": "0",
+                "Extra": "0",
+                "Total": "18"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/Detective-Pikachu.logo.270.png",
+            "Icon": "https://den-media.pokellector.com/logos/Detective-Pikachu.symbol.270.png"
+        },
+        "Unbroken Bonds": {
+            "ID": "119",
+            "Released": "May 3rd, 2019",
+            "Cards": {
+                "Official": "214",
+                "Secret": "21 ",
+                "Extra": "0",
+                "Total": "234"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/Unbroken-Bonds.logo.269.png",
+            "Icon": "https://den-media.pokellector.com/logos/Unbroken-Bonds.symbol.269.png"
+        },
+        "Unified Minds": {
+            "ID": "120",
+            "Released": "Aug 2nd, 2019",
+            "Cards": {
+                "Official": "236",
+                "Secret": "22 ",
+                "Extra": "0",
+                "Total": "258"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/Unified-Minds.logo.275.png",
+            "Icon": "https://den-media.pokellector.com/logos/Unified-Minds.symbol.275.png"
+        },
+        "Hidden Fates": {
+            "ID": "121",
+            "Released": "Aug 23rd, 2019",
+            "Cards": {
+                "Official": "68",
+                "Secret": "1 ",
+                "Extra": "94",
+                "Total": "163"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/Hidden-Fates.logo.279.png",
+            "Icon": "https://den-media.pokellector.com/logos/Hidden-Fates.symbol.279.png"
+        },
+        "McDonald's Collection (2019)": {
+            "ID": "122",
+            "Released": "Oct 15th, 2019",
+            "Cards": {
+                "Official": "12",
+                "Secret": "0",
+                "Extra": "0",
+                "Total": "12"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/McDonalds-Collection-2019.logo.290.png",
+            "Icon": "https://den-media.pokellector.com/logos/McDonalds-Collection-2019.symbol.290.png"
+        },
+        "McDonald's Collection (2019 FR)": {
+            "ID": "123",
+            "Released": "Oct 30th, 2019",
+            "Cards": {
+                "Official": "40",
+                "Secret": "0",
+                "Extra": "0",
+                "Total": "40"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/McDonalds-Collection-2019-FR.logo.334.png",
+            "Icon": "https://den-media.pokellector.com/logos/McDonalds-Collection-2019-FR.symbol.334.png"
+        },
+        "Cosmic Eclipse": {
+            "ID": "124",
+            "Released": "Nov 1st, 2019",
+            "Cards": {
+                "Official": "236",
+                "Secret": "35 ",
+                "Extra": "0",
+                "Total": "271"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/Cosmic-Eclipse.logo.280.png",
+            "Icon": "https://den-media.pokellector.com/logos/Cosmic-Eclipse.symbol.280.png"
+        }
+    },
+    "Sword & Shield Series": {
+        "Sword & Shield Promos": {
+            "ID": "125",
+            "Released": "Nov 15th, 2019",
+            "Cards": {
+                "Official": "307",
+                "Secret": "0",
+                "Extra": "0",
+                "Total": "307"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/Sword-Shield-Promos.logo.287.png",
+            "Icon": "https://den-media.pokellector.com/logos/Sword-Shield-Promos.symbol.287.png"
+        },
+        "Sword & Shield": {
+            "ID": "126",
+            "Released": "Feb 1st, 2020",
+            "Cards": {
+                "Official": "202",
+                "Secret": "14 ",
+                "Extra": "0",
+                "Total": "216"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/Sword-Shield.logo.286.png",
+            "Icon": "https://den-media.pokellector.com/logos/Sword-Shield.symbol.286.png"
+        },
+        "Rebel Clash": {
+            "ID": "127",
+            "Released": "May 1st, 2020",
+            "Cards": {
+                "Official": "192",
+                "Secret": "17 ",
+                "Extra": "0",
+                "Total": "209"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/Rebel-Clash.logo.292.png",
+            "Icon": "https://den-media.pokellector.com/logos/Rebel-Clash.symbol.292.png"
+        },
+        "Darkness Ablaze": {
+            "ID": "128",
+            "Released": "Aug 14th, 2020",
+            "Cards": {
+                "Official": "189",
+                "Secret": "12 ",
+                "Extra": "0",
+                "Total": "201"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/Darkness-Ablaze.logo.296.png",
+            "Icon": "https://den-media.pokellector.com/logos/Darkness-Ablaze.symbol.296.png"
+        },
+        "Pokemon Futsal Promos": {
+            "ID": "129",
+            "Released": "Sep 11th, 2020",
+            "Cards": {
+                "Official": "5",
+                "Secret": "0",
+                "Extra": "0",
+                "Total": "5"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/Pokemon-Futsal-Promos.logo.303.png",
+            "Icon": "https://den-media.pokellector.com/logos/Pokemon-Futsal-Promos.symbol.303.png"
+        },
+        "Champion's Path": {
+            "ID": "130",
+            "Released": "Sep 25th, 2020",
+            "Cards": {
+                "Official": "73",
+                "Secret": "7 ",
+                "Extra": "9",
+                "Total": "89"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/Champions-Path.logo.298.png",
+            "Icon": "https://den-media.pokellector.com/logos/Champions-Path.symbol.298.png"
+        },
+        "Vivid Voltage": {
+            "ID": "131",
+            "Released": "Nov 13th, 2020",
+            "Cards": {
+                "Official": "185",
+                "Secret": "18 ",
+                "Extra": "0",
+                "Total": "203"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/Vivid-Voltage.logo.299.png",
+            "Icon": "https://den-media.pokellector.com/logos/Vivid-Voltage.symbol.299.png"
+        },
+        "McDonald's 25th Anniversary": {
+            "ID": "132",
+            "Released": "Feb 9th, 2021",
+            "Cards": {
+                "Official": "25",
+                "Secret": "0",
+                "Extra": "0",
+                "Total": "25"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/McDonalds-25th-Anniversary.logo.300.png",
+            "Icon": "https://den-media.pokellector.com/logos/McDonalds-25th-Anniversary.symbol.300.png"
+        },
+        "Shining Fates": {
+            "ID": "133",
+            "Released": "Feb 19th, 2021",
+            "Cards": {
+                "Official": "72",
+                "Secret": "1 ",
+                "Extra": "122",
+                "Total": "195"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/Shining-Fates.logo.304.png",
+            "Icon": "https://den-media.pokellector.com/logos/Shining-Fates.symbol.304.png"
+        },
+        "Battle Styles": {
+            "ID": "134",
+            "Released": "Mar 19th, 2021",
+            "Cards": {
+                "Official": "163",
+                "Secret": "20 ",
+                "Extra": "0",
+                "Total": "183"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/Battle-Styles.logo.305.png",
+            "Icon": "https://den-media.pokellector.com/logos/Battle-Styles.symbol.305.png"
+        },
+        "Chilling Reign": {
+            "ID": "135",
+            "Released": "Jun 18th, 2021",
+            "Cards": {
+                "Official": "198",
+                "Secret": "35 ",
+                "Extra": "0",
+                "Total": "233"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/Chilling-Reign.logo.320.png",
+            "Icon": "https://den-media.pokellector.com/logos/Chilling-Reign.symbol.320.png"
+        },
+        "Evolving Skies": {
+            "ID": "136",
+            "Released": "Aug 27th, 2021",
+            "Cards": {
+                "Official": "203",
+                "Secret": "34 ",
+                "Extra": "0",
+                "Total": "237"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/Evolving-Skies.logo.325.png",
+            "Icon": "https://den-media.pokellector.com/logos/Evolving-Skies.symbol.325.png"
+        },
+        "Celebrations": {
+            "ID": "137",
+            "Released": "Oct 8th, 2021",
+            "Cards": {
+                "Official": "25",
+                "Secret": "0",
+                "Extra": "0",
+                "Total": "25"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/Celebrations.logo.329.png",
+            "Icon": "https://den-media.pokellector.com/logos/Celebrations.symbol.329.png"
+        },
+        "Fusion Strike": {
+            "ID": "138",
+            "Released": "Nov 12th, 2021",
+            "Cards": {
+                "Official": "264",
+                "Secret": "20 ",
+                "Extra": "0",
+                "Total": "284"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/Fusion-Strike.logo.335.png",
+            "Icon": "https://den-media.pokellector.com/logos/Fusion-Strike.symbol.335.png"
+        },
+        "Brilliant Stars - Trainer Gallery": {
+            "ID": "139",
+            "Released": "Feb 25th, 2022",
+            "Cards": {
+                "Official": "30",
+                "Secret": "0",
+                "Extra": "0",
+                "Total": "30"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/Brilliant-Stars-Trainer-Gallery.logo.349.png",
+            "Icon": "https://den-media.pokellector.com/logos/Brilliant-Stars-Trainer-Gallery.symbol.349.png"
+        },
+        "Brilliant Stars": {
+            "ID": "140",
+            "Released": "Feb 25th, 2022",
+            "Cards": {
+                "Official": "172",
+                "Secret": "15 ",
+                "Extra": "7",
+                "Total": "194"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/Brilliant-Stars.logo.340.png",
+            "Icon": "https://den-media.pokellector.com/logos/Brilliant-Stars.symbol.340.png"
+        },
+        "Astral Radiance - Trainer Gallery": {
+            "ID": "141",
+            "Released": "May 27th, 2022",
+            "Cards": {
+                "Official": "30",
+                "Secret": "0",
+                "Extra": "0",
+                "Total": "30"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/Astral-Radiance-Trainer-Gallery.logo.348.png",
+            "Icon": "https://den-media.pokellector.com/logos/Astral-Radiance-Trainer-Gallery.symbol.348.png"
+        },
+        "Astral Radiance": {
+            "ID": "142",
+            "Released": "May 27th, 2022",
+            "Cards": {
+                "Official": "189",
+                "Secret": "27 ",
+                "Extra": "0",
+                "Total": "216"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/Astral-Radiance.logo.345.png",
+            "Icon": "https://den-media.pokellector.com/logos/Astral-Radiance.symbol.345.png"
+        },
+        "Pokemon Go": {
+            "ID": "143",
+            "Released": "Jun 24th, 2022",
+            "Cards": {
+                "Official": "78",
+                "Secret": "10 ",
+                "Extra": "0",
+                "Total": "88"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/Pokemon-Go.logo.346.png",
+            "Icon": "https://den-media.pokellector.com/logos/Pokemon-Go.symbol.346.png"
+        },
+        "McDonald's Match Battle": {
+            "ID": "144",
+            "Released": "Aug 16th, 2022",
+            "Cards": {
+                "Official": "15",
+                "Secret": "0",
+                "Extra": "0",
+                "Total": "15"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/McDonalds-Match-Battle.logo.353.png",
+            "Icon": "https://den-media.pokellector.com/logos/McDonalds-Match-Battle.symbol.353.png"
+        },
+        "Trick or Trade": {
+            "ID": "145",
+            "Released": "Sep 1st, 2022",
+            "Cards": {
+                "Official": "30",
+                "Secret": "0",
+                "Extra": "0",
+                "Total": "30"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/Trick-or-Trade-collection.2.png",
+            "Icon": "/images/button-icon-list.png"
+        },
+        "Holiday Calendar 2022": {
+            "ID": "146",
+            "Released": "Sep 1st, 2022",
+            "Cards": {
+                "Official": "8",
+                "Secret": "0",
+                "Extra": "0",
+                "Total": "8"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/Holiday-Calendar-2022-collection.5.png",
+            "Icon": "/images/button-icon-list.png"
+        },
+        "Lost Origin - Trainer Gallery": {
+            "ID": "147",
+            "Released": "Sep 9th, 2022",
+            "Cards": {
+                "Official": "30",
+                "Secret": "0",
+                "Extra": "0",
+                "Total": "30"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/Lost-Origin-Trainer-Gallery.logo.355.png",
+            "Icon": "https://den-media.pokellector.com/logos/Lost-Origin-Trainer-Gallery.symbol.355.png"
+        },
+        "Lost Origin": {
+            "ID": "148",
+            "Released": "Sep 9th, 2022",
+            "Cards": {
+                "Official": "196",
+                "Secret": "21 ",
+                "Extra": "0",
+                "Total": "217"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/Lost-Origin.logo.350.png",
+            "Icon": "https://den-media.pokellector.com/logos/Lost-Origin.symbol.350.png"
+        },
+        "Silver Tempest": {
+            "ID": "149",
+            "Released": "Nov 11th, 2022",
+            "Cards": {
+                "Official": "195",
+                "Secret": "20 ",
+                "Extra": "0",
+                "Total": "215"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/Silver-Tempest.logo.354.png",
+            "Icon": "https://den-media.pokellector.com/logos/Silver-Tempest.symbol.354.png"
+        },
+        "Silver Tempest - Trainer Gallery": {
+            "ID": "150",
+            "Released": "Nov 11th, 2022",
+            "Cards": {
+                "Official": "30",
+                "Secret": "0",
+                "Extra": "0",
+                "Total": "30"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/Silver-Tempest-Trainer-Gallery.logo.356.png",
+            "Icon": "https://den-media.pokellector.com/logos/Silver-Tempest-Trainer-Gallery.symbol.356.png"
+        },
+        "Crown Zenith - Galarian Gallery": {
+            "ID": "151",
+            "Released": "Jan 20th, 2023",
+            "Cards": {
+                "Official": "70",
+                "Secret": "0",
+                "Extra": "0",
+                "Total": "70"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/Crown-Zenith-Galarian-Gallery.logo.365.png",
+            "Icon": "https://den-media.pokellector.com/logos/Crown-Zenith-Galarian-Gallery.symbol.365.png"
+        },
+        "Crown Zenith": {
+            "ID": "152",
+            "Released": "Jan 20th, 2023",
+            "Cards": {
+                "Official": "159",
+                "Secret": "1 ",
+                "Extra": "0",
+                "Total": "160"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/Crown-Zenith.logo.358.png",
+            "Icon": "https://den-media.pokellector.com/logos/Crown-Zenith.symbol.358.png"
+        }
+    },
+    "Scarlet & Violet Series": {
+        "Scarlet & Violet Promos": {
+            "ID": "153",
+            "Released": "Jan 6th, 2023",
+            "Cards": {
+                "Official": "225",
+                "Secret": "1 ",
+                "Extra": "0",
+                "Total": "211"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/Scarlet-Violet-Promos.logo.364.png",
+            "Icon": "https://den-media.pokellector.com/logos/Scarlet-Violet-Promos.symbol.364.png"
+        },
+        "Scarlet & Violet": {
+            "ID": "154",
+            "Released": "Mar 31st, 2023",
+            "Cards": {
+                "Official": "198",
+                "Secret": "60 ",
+                "Extra": "0",
+                "Total": "258"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/Scarlet-Violet.logo.363.png",
+            "Icon": "https://den-media.pokellector.com/logos/Scarlet-Violet.symbol.363.png"
+        },
+        "Scarlet & Violet Energies": {
+            "ID": "155",
+            "Released": "Apr 1st, 2023",
+            "Cards": {
+                "Official": "24",
+                "Secret": "0",
+                "Extra": "0",
+                "Total": "24"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/Scarlet-Violet-Energies.logo.404.png",
+            "Icon": "https://den-media.pokellector.com/logos/Scarlet-Violet-Energies.symbol.404.png"
+        },
+        "Paldea Evolved": {
+            "ID": "156",
+            "Released": "Jun 9th, 2023",
+            "Cards": {
+                "Official": "193",
+                "Secret": "86 ",
+                "Extra": "0",
+                "Total": "279"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/Paldea-Evolved.logo.367.png",
+            "Icon": "https://den-media.pokellector.com/logos/Paldea-Evolved.symbol.367.png"
+        },
+        "Obsidian Flames": {
+            "ID": "157",
+            "Released": "Aug 11th, 2023",
+            "Cards": {
+                "Official": "197",
+                "Secret": "33 ",
+                "Extra": "0",
+                "Total": "230"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/Obsidian-Flames.logo.373.png",
+            "Icon": "https://den-media.pokellector.com/logos/Obsidian-Flames.symbol.373.png"
+        },
+        "McDonald's Match Battle 2023": {
+            "ID": "158",
+            "Released": "Aug 22nd, 2023",
+            "Cards": {
+                "Official": "15",
+                "Secret": "0",
+                "Extra": "0",
+                "Total": "15"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/McDonalds-Match-Battle-2023.logo.372.png",
+            "Icon": "https://den-media.pokellector.com/logos/McDonalds-Match-Battle-2023.symbol.372.png"
+        },
+        "Trick or Trade 2023": {
+            "ID": "159",
+            "Released": "Sep 1st, 2023",
+            "Cards": {
+                "Official": "30",
+                "Secret": "0",
+                "Extra": "0",
+                "Total": "30"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/Trick-or-Trade-2023-collection.3.png",
+            "Icon": "/images/button-icon-list.png"
+        },
+        "Holiday Calendar 2023": {
+            "ID": "160",
+            "Released": "Sep 1st, 2023",
+            "Cards": {
+                "Official": "8",
+                "Secret": "0",
+                "Extra": "0",
+                "Total": "8"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/Holiday-Calendar-2023-collection.4.png",
+            "Icon": "/images/button-icon-list.png"
+        },
+        "Scarlet & Violet - 151": {
+            "ID": "161",
+            "Released": "Sep 22nd, 2023",
+            "Cards": {
+                "Official": "165",
+                "Secret": "42 ",
+                "Extra": "0",
+                "Total": "207"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/Scarlet-Violet-151.logo.374.png",
+            "Icon": "https://den-media.pokellector.com/logos/Scarlet-Violet-151.symbol.374.png"
+        },
+        "Paradox Rift": {
+            "ID": "162",
+            "Released": "Nov 3rd, 2023",
+            "Cards": {
+                "Official": "182",
+                "Secret": "84 ",
+                "Extra": "0",
+                "Total": "266"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/Paradox-Rift.logo.377.png",
+            "Icon": "https://den-media.pokellector.com/logos/Paradox-Rift.symbol.377.png"
+        },
+        "Paldean Fates": {
+            "ID": "163",
+            "Released": "Jan 26th, 2024",
+            "Cards": {
+                "Official": "91",
+                "Secret": "154 ",
+                "Extra": "0",
+                "Total": "245"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/Paldean-Fates.logo.384.png",
+            "Icon": "https://den-media.pokellector.com/logos/Paldean-Fates.symbol.384.png"
+        },
+        "Temporal Forces": {
+            "ID": "164",
+            "Released": "Mar 22nd, 2024",
+            "Cards": {
+                "Official": "162",
+                "Secret": "56 ",
+                "Extra": "0",
+                "Total": "218"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/Temporal-Forces.logo.383.png",
+            "Icon": "https://den-media.pokellector.com/logos/Temporal-Forces.symbol.383.png"
+        },
+        "Twilight Masquerade": {
+            "ID": "165",
+            "Released": "May 24th, 2024",
+            "Cards": {
+                "Official": "167",
+                "Secret": "59 ",
+                "Extra": "0",
+                "Total": "226"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/Twilight-Masquerade.logo.392.png",
+            "Icon": "https://den-media.pokellector.com/logos/Twilight-Masquerade.symbol.392.png"
+        },
+        "Shrouded Fable": {
+            "ID": "166",
+            "Released": "Aug 2nd, 2024",
+            "Cards": {
+                "Official": "64",
+                "Secret": "35 ",
+                "Extra": "0",
+                "Total": "99"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/Shrouded-Fable.logo.399.png",
+            "Icon": "https://den-media.pokellector.com/logos/Shrouded-Fable.symbol.399.png"
+        },
+        "Trick or Trade 2024": {
+            "ID": "167",
+            "Released": "Sep 6th, 2024",
+            "Cards": {
+                "Official": "30",
+                "Secret": "0",
+                "Extra": "0",
+                "Total": "30"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/Trick-or-Trade-2024-collection.6.png",
+            "Icon": "/images/button-icon-list.png"
+        },
+        "Holiday Calendar 2024": {
+            "ID": "168",
+            "Released": "Sep 13th, 2024",
+            "Cards": {
+                "Official": "8",
+                "Secret": "0",
+                "Extra": "0",
+                "Total": "8"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/Holiday-Calendar-2024-collection.7.png",
+            "Icon": "/images/button-icon-list.png"
+        },
+        "Stellar Crown": {
+            "ID": "169",
+            "Released": "Sep 13th, 2024",
+            "Cards": {
+                "Official": "142",
+                "Secret": "33 ",
+                "Extra": "0",
+                "Total": "175"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/Stellar-Crown.logo.400.png",
+            "Icon": "https://den-media.pokellector.com/logos/Stellar-Crown.symbol.400.png"
+        },
+        "Surging Sparks": {
+            "ID": "170",
+            "Released": "Nov 8th, 2024",
+            "Cards": {
+                "Official": "250",
+                "Secret": "2 ",
+                "Extra": "0",
+                "Total": "252"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/Surging-Sparks.logo.402.png",
+            "Icon": "https://den-media.pokellector.com/logos/Surging-Sparks.symbol.402.png"
+        },
+        "Prismatic Evolutions": {
+            "ID": "171",
+            "Released": "Jan 17th, 2025",
+            "Cards": {
+                "Official": "131",
+                "Secret": "49 ",
+                "Extra": "0",
+                "Total": "180"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/Prismatic-Evolutions.logo.407.png",
+            "Icon": "https://den-media.pokellector.com/logos/Prismatic-Evolutions.symbol.407.png"
+        },
+        "McDonald's Dragon Discovery": {
+            "ID": "172",
+            "Released": "Jan 21st, 2025",
+            "Cards": {
+                "Official": "15",
+                "Secret": "0",
+                "Extra": "0",
+                "Total": "15"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/McDonalds-Dragon-Discovery.logo.410.png",
+            "Icon": "https://den-media.pokellector.com/logos/McDonalds-Dragon-Discovery.symbol.410.png"
+        },
+        "Journey Together": {
+            "ID": "173",
+            "Released": "Mar 28th, 2025",
+            "Cards": {
+                "Official": "180",
+                "Secret": "10 ",
+                "Extra": "0",
+                "Total": "190"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/Journey-Together.logo.409.png",
+            "Icon": "https://den-media.pokellector.com/logos/Journey-Together.symbol.409.png"
+        },
+        "Destined Rivals": {
+            "ID": "174",
+            "Released": "May 30th, 2025",
+            "Cards": {
+                "Official": "182",
+                "Secret": "62 ",
+                "Extra": "0",
+                "Total": "244"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/Destined-Rivals.logo.412.png",
+            "Icon": "https://den-media.pokellector.com/logos/Destined-Rivals.symbol.412.png"
+        },
+        "Black Bolt": {
+            "ID": "175",
+            "Released": "Jul 18th, 2025",
+            "Cards": {
+                "Official": "86",
+                "Secret": "86 ",
+                "Extra": "0",
+                "Total": "172"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/Black-Bolt.logo.420.png",
+            "Icon": "https://den-media.pokellector.com/logos/Black-Bolt.symbol.420.png"
+        },
+        "White Flare": {
+            "ID": "176",
+            "Released": "Jul 18th, 2025",
+            "Cards": {
+                "Official": "86",
+                "Secret": "87 ",
+                "Extra": "0",
+                "Total": "173"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/White-Flare.logo.421.png",
+            "Icon": "https://den-media.pokellector.com/logos/White-Flare.symbol.421.png"
+        }
+    },
+    "Mega Evolution Series": {
+        "Mega Evolution": {
+            "ID": "177",
+            "Released": "Sep 26th, 2025",
+            "Cards": {
+                "Official": "132",
+                "Secret": "56 ",
+                "Extra": "0",
+                "Total": "188"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/Mega-Evolution.logo.422.png",
+            "Icon": "https://den-media.pokellector.com/logos/Mega-Evolution.symbol.422.png"
+        },
+        "Mega Evolution Black Star Promos": {
+            "ID": "178",
+            "Released": "Sep 1st, 2025",
+            "Cards": {
+                "Official": "25",
+                "Secret": "2 ",
+                "Extra": "0",
+                "Total": "6"
+            },
+            "Splash": "https://den-media.pokellector.com/logos/Mega-Evolution-Black-Star-Promos.logo.423.png",
+            "Icon": "https://den-media.pokellector.com/logos/Mega-Evolution-Black-Star-Promos.symbol.423.png"
+        }
+    }
+}

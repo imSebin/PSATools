@@ -1,30 +1,31 @@
+import tkinter as tk
 from tkinter import *
 
-class menu:
+class Menu:
     def __init__(self, master: Tk):
         self.master = master
-        self.menu_bar = Menu(self.master)
+        self.menu_bar = tk.Menu(self.master)
 
-        self.filemenu = Menu(self.menu_bar, tearoff=0)
+        self.filemenu = tk.Menu(self.menu_bar, tearoff=0)
         self.add_filemenu_items(self.filemenu)
         self.menu_bar.add_cascade(label="File", menu=self.filemenu)
 
-        self.editmenu = Menu(self.menu_bar, tearoff=0)
+        self.editmenu = tk.Menu(self.menu_bar, tearoff=0)
         self.add_editmenu_items(self.editmenu)
         self.menu_bar.add_cascade(label="Edit", menu=self.editmenu)
 
-        self.viewmenu = Menu(self.menu_bar, tearoff=0)
+        self.viewmenu = tk.Menu(self.menu_bar, tearoff=0)
         self.add_editmenu_items(self.viewmenu)
         self.menu_bar.add_cascade(label="View", menu=self.editmenu)
 
-        self.helpmenu = Menu(self.menu_bar, tearoff=0)
+        self.helpmenu = tk.Menu(self.menu_bar, tearoff=0)
         self.add_helpmenu_items(self.helpmenu)
         self.menu_bar.add_cascade(label="Help", menu=self.helpmenu)
 
-    def get_menu_bar(self) -> Menu:
+    def get_menu_bar(self) -> tk.Menu:
         return self.menu_bar
 
-    def add_filemenu_items(self, filemenu: Menu):
+    def add_filemenu_items(self, filemenu: tk.Menu):
         filemenu.add_command(label="New", command=self.new_file)
         filemenu.add_command(label="Open", command=self.open_file)
         filemenu.add_command(label="Save", command=self.save_file)
@@ -32,13 +33,13 @@ class menu:
         filemenu.add_separator()
         filemenu.add_command(label="Exit", command=self.master.quit)
 
-    def add_editmenu_items(self, editmenu: Menu):
+    def add_editmenu_items(self, editmenu: tk.Menu):
         pass
 
-    def add_viewmenu_items(self, viewmenu: Menu):
+    def add_viewmenu_items(self, viewmenu: tk.Menu):
         pass
 
-    def add_helpmenu_items(self, helpmenu: Menu):
+    def add_helpmenu_items(self, helpmenu: tk.Menu):
         pass
 
     @staticmethod

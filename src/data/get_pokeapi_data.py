@@ -1,30 +1,29 @@
-import requests
+import requests, json
 
-class get_pokeapi_data:
+class GetPokeAPIData:
     @staticmethod
-    def get_all_pokemon_names():
-        """Fetches and returns a list of all Pokémon names from PokeAPI."""
+    def get_all_pokemon():
         base_url = "https://pokeapi.co/api/v2/pokemon/"
         params = {'limit': 2000}
-
         try:
             response = requests.get(base_url, params=params)
-            response.raise_for_status()  # Raise an exception for HTTP errors (4xx or 5xx)
+            response.raise_for_status()
             data = response.json()
-
-            pokemon_names = [item['name'] for item in data['results']]
-            return pokemon_names
+            return data['results']
         except requests.exceptions.RequestException as e:
             print(f"Error fetching data: {e}")
             return []
 
 if __name__ == "__main__":
-    test = get_pokeapi_data()
-    names = test.get_all_pokemon_names()
-    if names:
-        print("List of all Pokémon names:")
-        for name in names:
-            print(name)
-        print(len(names))
-    else:
-        print("Could not retrieve Pokémon names.")
+    MAX_POKEMON = 1025
+    info = {}
+
+    app = GetPokeAPIData()
+    pokemon = app.get_all_pokemon()
+    for i in range(MAX_POKEMON):
+        info[str(i)] = {
+            "name": pokemon[i]['name'],
+            "url": pokemon[i]['url']
+        }
+    with open('res/data/identifiers/pokemon.json', 'w') as f:
+        json.dump(info, f, indent=4)

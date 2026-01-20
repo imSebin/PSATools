@@ -1,0 +1,987 @@
+{
+    "Base Set Series": {
+        "logo": "https://den-media.pokellector.com/logos/Base-Set.logo.119.png",
+        "expansions": {
+            "Base Set": {
+                "url": "https://www.pokellector.com/Base-Set-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/Base-Set.logo.119.png",
+                "symbol": "https://den-media.pokellector.com/logos/Base-Set.symbol.119.png"
+            },
+            "Jungle": {
+                "url": "https://www.pokellector.com/Jungle-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/Jungle.logo.120.png",
+                "symbol": "https://den-media.pokellector.com/logos/Jungle.symbol.120.png"
+            },
+            "Wizards of the Coast Promos": {
+                "url": "https://www.pokellector.com/Wizards-of-the-Coast-Promos-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/Wizards-of-the-Coast-Promos.logo.125.png",
+                "symbol": "https://den-media.pokellector.com/logos/Wizards-of-the-Coast-Promos.symbol.125.png"
+            },
+            "Fossil": {
+                "url": "https://www.pokellector.com/Fossil-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/Fossil.logo.121.png",
+                "symbol": "https://den-media.pokellector.com/logos/Fossil.symbol.121.png"
+            },
+            "Base Set 2": {
+                "url": "https://www.pokellector.com/Base-Set-2-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/Base-Set-2.logo.122.png",
+                "symbol": "https://den-media.pokellector.com/logos/Base-Set-2.symbol.122.png"
+            },
+            "Team Rocket": {
+                "url": "https://www.pokellector.com/Team-Rocket-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/Team-Rocket.logo.123.png",
+                "symbol": "https://den-media.pokellector.com/logos/Team-Rocket.symbol.123.png"
+            }
+        }
+    },
+    "Gym Heroes Series": {
+        "logo": "https://den-media.pokellector.com/logos/Gym-Heroes.logo.117.png",
+        "expansions": {
+            "Gym Heroes": {
+                "url": "https://www.pokellector.com/Gym-Heroes-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/Gym-Heroes.logo.117.png",
+                "symbol": "https://den-media.pokellector.com/logos/Gym-Heroes.symbol.117.png"
+            },
+            "Gym Challenge": {
+                "url": "https://www.pokellector.com/Gym-Challenge-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/Gym-Challenge.logo.118.png",
+                "symbol": "https://den-media.pokellector.com/logos/Gym-Challenge.symbol.118.png"
+            }
+        }
+    },
+    "Topps Chrome Series": {
+        "logo": "https://den-media.pokellector.com/logos/Topps-Chrome.logo.378.png",
+        "expansions": {
+            "Topps Series 1": {
+                "url": "https://www.pokellector.com/Topps-Series-1-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/Topps-Series-1.logo.379.png",
+                "symbol": "https://den-media.pokellector.com/logos/Topps-Series-1.symbol.379.png"
+            },
+            "Topps Series 2": {
+                "url": "https://www.pokellector.com/Topps-Series-2-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/Topps-Series-2.logo.380.png",
+                "symbol": "https://den-media.pokellector.com/logos/Topps-Series-2.symbol.380.png"
+            },
+            "Topps Series 3": {
+                "url": "https://www.pokellector.com/Topps-Series-3-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/Topps-Series-3.logo.385.png",
+                "symbol": "https://den-media.pokellector.com/logos/Topps-Series-3.symbol.385.png"
+            }
+        }
+    },
+    "Neo Genesis Series": {
+        "logo": "https://den-media.pokellector.com/logos/Neo-Genesis.logo.113.png",
+        "expansions": {
+            "Neo Genesis": {
+                "url": "https://www.pokellector.com/Neo-Genesis-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/Neo-Genesis.logo.113.png",
+                "symbol": "https://den-media.pokellector.com/logos/Neo-Genesis.symbol.113.png"
+            },
+            "Neo Discovery": {
+                "url": "https://www.pokellector.com/Neo-Discovery-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/Neo-Discovery.logo.114.png",
+                "symbol": "https://den-media.pokellector.com/logos/Neo-Discovery.symbol.114.png"
+            },
+            "Southern Islands": {
+                "url": "https://www.pokellector.com/Southern-Islands-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/Southern-Islands.logo.124.png",
+                "symbol": "https://den-media.pokellector.com/logos/Southern-Islands.symbol.124.png"
+            },
+            "Neo Revelation": {
+                "url": "https://www.pokellector.com/Neo-Revelation-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/Neo-Revelation.logo.115.png",
+                "symbol": "https://den-media.pokellector.com/logos/Neo-Revelation.symbol.115.png"
+            },
+            "Neo Destiny": {
+                "url": "https://www.pokellector.com/Neo-Destiny-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/Neo-Destiny.logo.116.png",
+                "symbol": "https://den-media.pokellector.com/logos/Neo-Destiny.symbol.116.png"
+            }
+        }
+    },
+    "Legendary Collection Series": {
+        "logo": "https://den-media.pokellector.com/logos/Legendary-Collection.logo.112.png",
+        "expansions": {
+            "Legendary Collection": {
+                "url": "https://www.pokellector.com/Legendary-Collection-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/Legendary-Collection.logo.112.png",
+                "symbol": "https://den-media.pokellector.com/logos/Legendary-Collection.symbol.112.png"
+            }
+        }
+    },
+    "e-Card Series": {
+        "logo": "https://den-media.pokellector.com/logos/e-Card.logo.108.png",
+        "expansions": {
+            "Expedition": {
+                "url": "https://www.pokellector.com/Expedition-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/Expedition.logo.109.png",
+                "symbol": "https://den-media.pokellector.com/logos/Expedition.symbol.109.png"
+            },
+            "Best of Game": {
+                "url": "https://www.pokellector.com/Best-of-Game-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/Best-of-Game.logo.196.png",
+                "symbol": "https://den-media.pokellector.com/logos/Best-of-Game.symbol.196.png"
+            },
+            "Aquapolis": {
+                "url": "https://www.pokellector.com/Aquapolis-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/Aquapolis.logo.110.png",
+                "symbol": "https://den-media.pokellector.com/logos/Aquapolis.symbol.110.png"
+            },
+            "Skyridge": {
+                "url": "https://www.pokellector.com/Skyridge-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/Skyridge.logo.111.png",
+                "symbol": "https://den-media.pokellector.com/logos/Skyridge.symbol.111.png"
+            }
+        }
+    },
+    "EX Ruby & Sapphire Series": {
+        "logo": "https://den-media.pokellector.com/logos/Ruby-Sapphire.logo.49.png",
+        "expansions": {
+            "EX Ruby & Sapphire": {
+                "url": "https://www.pokellector.com/EX-Ruby-Sapphire-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/Ruby-Sapphire.logo.49.png",
+                "symbol": "https://den-media.pokellector.com/logos/Ruby-Sapphire.symbol.49.png"
+            },
+            "EX Sandstorm": {
+                "url": "https://www.pokellector.com/EX-Sandstorm-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/EX-Sandstorm.logo.53.png",
+                "symbol": "https://den-media.pokellector.com/logos/EX-Sandstorm.symbol.53.png"
+            },
+            "EX Dragon": {
+                "url": "https://www.pokellector.com/EX-Dragon-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/EX-Dragon.logo.54.png",
+                "symbol": "https://den-media.pokellector.com/logos/EX-Dragon.symbol.54.png"
+            },
+            "EX Team Magma vs Team Aqua": {
+                "url": "https://www.pokellector.com/EX-Team-Magma-vs-Team-Aqua-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/EX-Team-Magma-vs-Team-Aqua.logo.55.png",
+                "symbol": "https://den-media.pokellector.com/logos/EX-Team-Magma-vs-Team-Aqua.symbol.55.png"
+            },
+            "EX Hidden Legends": {
+                "url": "https://www.pokellector.com/EX-Hidden-Legends-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/EX-Hidden-Legends.logo.56.png",
+                "symbol": "https://den-media.pokellector.com/logos/EX-Hidden-Legends.symbol.56.png"
+            },
+            "EX FireRed & LeafGreen": {
+                "url": "https://www.pokellector.com/EX-FireRed-LeafGreen-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/EX-FireRed-LeafGreen.logo.57.png",
+                "symbol": "https://den-media.pokellector.com/logos/EX-FireRed-LeafGreen.symbol.57.png"
+            },
+            "EX Team Rocket Returns": {
+                "url": "https://www.pokellector.com/EX-Team-Rocket-Returns-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/EX-Team-Rocket-Returns.logo.58.png",
+                "symbol": "https://den-media.pokellector.com/logos/EX-Team-Rocket-Returns.symbol.58.png"
+            },
+            "EX Deoxys": {
+                "url": "https://www.pokellector.com/EX-Deoxys-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/EX-Deoxys.logo.59.png",
+                "symbol": "https://den-media.pokellector.com/logos/EX-Deoxys.symbol.59.png"
+            },
+            "EX Emerald": {
+                "url": "https://www.pokellector.com/EX-Emerald-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/EX-Emerald.logo.60.png",
+                "symbol": "https://den-media.pokellector.com/logos/EX-Emerald.symbol.60.png"
+            },
+            "EX Unseen Forces": {
+                "url": "https://www.pokellector.com/EX-Unseen-Forces-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/EX-Unseen-Forces.logo.61.png",
+                "symbol": "https://den-media.pokellector.com/logos/EX-Unseen-Forces.symbol.61.png"
+            },
+            "EX Unseen Forces Unown Collection": {
+                "url": "https://www.pokellector.com/EX-Unseen-Forces-Unown-Collection-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/EX-Unseen-Forces-Unown-Collection.logo.161.png",
+                "symbol": "https://den-media.pokellector.com/logos/EX-Unseen-Forces-Unown-Collection.symbol.161.png"
+            },
+            "EX Delta Species": {
+                "url": "https://www.pokellector.com/EX-Delta-Species-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/EX-Delta-Species.logo.62.png",
+                "symbol": "https://den-media.pokellector.com/logos/EX-Delta-Species.symbol.62.png"
+            },
+            "EX Legend Maker": {
+                "url": "https://www.pokellector.com/EX-Legend-Maker-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/EX-Legend-Maker.logo.63.png",
+                "symbol": "https://den-media.pokellector.com/logos/EX-Legend-Maker.symbol.63.png"
+            },
+            "EX Holon Phantoms": {
+                "url": "https://www.pokellector.com/EX-Holon-Phantoms-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/EX-Holon-Phantoms.logo.64.png",
+                "symbol": "https://den-media.pokellector.com/logos/EX-Holon-Phantoms.symbol.64.png"
+            },
+            "EX Crystal Guardians": {
+                "url": "https://www.pokellector.com/EX-Crystal-Guardians-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/EX-Crystal-Guardians.logo.65.png",
+                "symbol": "https://den-media.pokellector.com/logos/EX-Crystal-Guardians.symbol.65.png"
+            },
+            "EX Dragon Frontiers": {
+                "url": "https://www.pokellector.com/EX-Dragon-Frontiers-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/EX-Dragon-Frontiers.logo.66.png",
+                "symbol": "https://den-media.pokellector.com/logos/EX-Dragon-Frontiers.symbol.66.png"
+            },
+            "EX Power Keepers": {
+                "url": "https://www.pokellector.com/EX-Power-Keepers-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/EX-Power-Keepers.logo.67.png",
+                "symbol": "https://den-media.pokellector.com/logos/EX-Power-Keepers.symbol.67.png"
+            }
+        }
+    },
+    "Diamond & Pearl Series": {
+        "logo": "https://den-media.pokellector.com/logos/Diamond-Pearl.logo.42.png",
+        "expansions": {
+            "Diamond & Pearl": {
+                "url": "https://www.pokellector.com/Diamond-Pearl-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/Diamond-Pearl.logo.42.png",
+                "symbol": "https://den-media.pokellector.com/logos/Diamond-Pearl.symbol.42.png"
+            },
+            "DP Black Star Promos": {
+                "url": "https://www.pokellector.com/DP-Black-Star-Promos-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/DP-Black-Star-Promos.logo.101.png",
+                "symbol": "https://den-media.pokellector.com/logos/DP-Black-Star-Promos.symbol.101.png"
+            },
+            "Mysterious Treasures": {
+                "url": "https://www.pokellector.com/Mysterious-Treasures-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/Mysterious-Treasures.logo.43.png",
+                "symbol": "https://den-media.pokellector.com/logos/Mysterious-Treasures.symbol.43.png"
+            },
+            "Secret Wonders": {
+                "url": "https://www.pokellector.com/Secret-Wonders-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/Secret-Wonders.logo.44.png",
+                "symbol": "https://den-media.pokellector.com/logos/Secret-Wonders.symbol.44.png"
+            },
+            "Great Encounters": {
+                "url": "https://www.pokellector.com/Great-Encounters-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/Great-Encounters.logo.45.png",
+                "symbol": "https://den-media.pokellector.com/logos/Great-Encounters.symbol.45.png"
+            },
+            "Majestic Dawn": {
+                "url": "https://www.pokellector.com/Majestic-Dawn-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/Majestic-Dawn.logo.46.png",
+                "symbol": "https://den-media.pokellector.com/logos/Majestic-Dawn.symbol.46.png"
+            },
+            "Legends Awakened": {
+                "url": "https://www.pokellector.com/Legends-Awakened-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/Legends-Awakened.logo.47.png",
+                "symbol": "https://den-media.pokellector.com/logos/Legends-Awakened.symbol.47.png"
+            },
+            "Stormfront": {
+                "url": "https://www.pokellector.com/Stormfront-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/Stormfront.logo.48.png",
+                "symbol": "https://den-media.pokellector.com/logos/Stormfront.symbol.48.png"
+            }
+        }
+    },
+    "Nintendo Promos Series": {
+        "logo": "https://den-media.pokellector.com/logos/Nintendo-Promos.logo.50.png",
+        "expansions": {
+            "Nintendo Promos": {
+                "url": "https://www.pokellector.com/Nintendo-Promos-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/Nintendo-Promos.logo.50.png",
+                "symbol": "https://den-media.pokellector.com/logos/Nintendo-Promos.symbol.50.png"
+            },
+            "POP Series 1": {
+                "url": "https://www.pokellector.com/POP-Series-1-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/POP-Series-1.logo.68.png",
+                "symbol": "https://den-media.pokellector.com/logos/POP-Series-1.symbol.68.png"
+            },
+            "POP Series 2": {
+                "url": "https://www.pokellector.com/POP-Series-2-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/POP-Series-2.logo.69.png",
+                "symbol": "https://den-media.pokellector.com/logos/POP-Series-2.symbol.69.png"
+            },
+            "POP Series 3": {
+                "url": "https://www.pokellector.com/POP-Series-3-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/POP-Series-3.logo.70.png",
+                "symbol": "https://den-media.pokellector.com/logos/POP-Series-3.symbol.70.png"
+            },
+            "POP Series 4": {
+                "url": "https://www.pokellector.com/POP-Series-4-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/POP-Series-4.logo.71.png",
+                "symbol": "https://den-media.pokellector.com/logos/POP-Series-4.symbol.71.png"
+            },
+            "POP Series 5": {
+                "url": "https://www.pokellector.com/POP-Series-5-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/POP-Series-5.logo.102.png",
+                "symbol": "https://den-media.pokellector.com/logos/POP-Series-5.symbol.102.png"
+            },
+            "POP Series 6": {
+                "url": "https://www.pokellector.com/POP-Series-6-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/POP-Series-6.logo.103.png",
+                "symbol": "https://den-media.pokellector.com/logos/POP-Series-6.symbol.103.png"
+            },
+            "POP Series 7": {
+                "url": "https://www.pokellector.com/POP-Series-7-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/POP-Series-7.logo.104.png",
+                "symbol": "https://den-media.pokellector.com/logos/POP-Series-7.symbol.104.png"
+            },
+            "POP Series 8": {
+                "url": "https://www.pokellector.com/POP-Series-8-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/POP-Series-8.logo.105.png",
+                "symbol": "https://den-media.pokellector.com/logos/POP-Series-8.symbol.105.png"
+            },
+            "POP Series 9": {
+                "url": "https://www.pokellector.com/POP-Series-9-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/POP-Series-9.logo.106.png",
+                "symbol": "https://den-media.pokellector.com/logos/POP-Series-9.symbol.106.png"
+            }
+        }
+    },
+    "Platinum Series": {
+        "logo": "https://den-media.pokellector.com/logos/Platinum.logo.38.png",
+        "expansions": {
+            "Platinum": {
+                "url": "https://www.pokellector.com/Platinum-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/Platinum.logo.38.png",
+                "symbol": "https://den-media.pokellector.com/logos/Platinum.symbol.38.png"
+            },
+            "Platinum - Rising Rivals": {
+                "url": "https://www.pokellector.com/Platinum-Rising-Rivals-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/Platinum-Rising-Rivals.logo.39.png",
+                "symbol": "https://den-media.pokellector.com/logos/Platinum-Rising-Rivals.symbol.39.png"
+            },
+            "Platinum - Supreme Victors": {
+                "url": "https://www.pokellector.com/Platinum-Supreme-Victors-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/Platinum-Supreme-Victors.logo.40.png",
+                "symbol": "https://den-media.pokellector.com/logos/Platinum-Supreme-Victors.symbol.40.png"
+            },
+            "Platinum - Arceus": {
+                "url": "https://www.pokellector.com/Platinum-Arceus-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/Platinum-Arceus.logo.41.png",
+                "symbol": "https://den-media.pokellector.com/logos/Platinum-Arceus.symbol.41.png"
+            },
+            "Pokemon Rumble": {
+                "url": "https://www.pokellector.com/Pokemon-Rumble-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/Pokemon-Rumble.logo.52.png",
+                "symbol": "https://den-media.pokellector.com/logos/Pokemon-Rumble.symbol.52.png"
+            }
+        }
+    },
+    "HeartGold SoulSilver Series": {
+        "logo": "https://den-media.pokellector.com/logos/HeartGold-SoulSilver.logo.34.png",
+        "expansions": {
+            "HeartGold SoulSilver": {
+                "url": "https://www.pokellector.com/HeartGold-SoulSilver-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/HeartGold-SoulSilver.logo.34.png",
+                "symbol": "https://den-media.pokellector.com/logos/HeartGold-SoulSilver.symbol.34.png"
+            },
+            "HeartGold SoulSilver Promos": {
+                "url": "https://www.pokellector.com/HeartGold-SoulSilver-Promos-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/HeartGold-SoulSilver-Promos.logo.107.png",
+                "symbol": "https://den-media.pokellector.com/logos/HeartGold-SoulSilver-Promos.symbol.107.png"
+            },
+            "HS Unleashed": {
+                "url": "https://www.pokellector.com/HS-Unleashed-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/HS-Unleashed.logo.35.png",
+                "symbol": "https://den-media.pokellector.com/logos/HS-Unleashed.symbol.35.png"
+            },
+            "HS Undaunted": {
+                "url": "https://www.pokellector.com/HS-Undaunted-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/HS-Undaunted.logo.36.png",
+                "symbol": "https://den-media.pokellector.com/logos/HS-Undaunted.symbol.36.png"
+            },
+            "HS Triumphant": {
+                "url": "https://www.pokellector.com/HS-Triumphant-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/HS-Triumphant.logo.37.png",
+                "symbol": "https://den-media.pokellector.com/logos/HS-Triumphant.symbol.37.png"
+            }
+        }
+    },
+    "Call of Legends Series": {
+        "logo": "https://den-media.pokellector.com/logos/Call-of-Legends.logo.33.png",
+        "expansions": {
+            "Call of Legends": {
+                "url": "https://www.pokellector.com/Call-of-Legends-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/Call-of-Legends.logo.33.png",
+                "symbol": "https://den-media.pokellector.com/logos/Call-of-Legends.symbol.33.png"
+            }
+        }
+    },
+    "Black & White Promos Series": {
+        "logo": "https://den-media.pokellector.com/logos/Black-White-Promos.logo.9.png",
+        "expansions": {
+            "Black & White Promos": {
+                "url": "https://www.pokellector.com/English-Black-White-Promos-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/Black-White-Promos.logo.9.png",
+                "symbol": "https://den-media.pokellector.com/logos/Black-White-Promos.symbol.9.png"
+            },
+            "McDonald's Collection (2011)": {
+                "url": "https://www.pokellector.com/McDonalds-Collection-2011-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/McDonalds-Promos-2011.logo.10.png",
+                "symbol": "https://den-media.pokellector.com/logos/McDonalds-Promos-2011.symbol.10.png"
+            },
+            "McDonald's Collection (2012)": {
+                "url": "https://www.pokellector.com/McDonalds-Collection-2012-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/McDonalds-Promos-2012.logo.11.png",
+                "symbol": "https://den-media.pokellector.com/logos/McDonalds-Promos-2012.symbol.11.png"
+            },
+            "McDonald's Collection (2013)": {
+                "url": "https://www.pokellector.com/McDonalds-Collection-2013-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/McDonalds-Promos-2013.logo.147.png",
+                "symbol": "https://den-media.pokellector.com/logos/McDonalds-Collection-2013.symbol.147.png"
+            }
+        }
+    },
+    "Black & White Series": {
+        "logo": "https://den-media.pokellector.com/logos/Black-White.logo.1.png",
+        "expansions": {
+            "Black & White": {
+                "url": "https://www.pokellector.com/English-Black-White-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/Black-White.logo.1.png",
+                "symbol": "https://den-media.pokellector.com/logos/Black-White.symbol.1.png"
+            },
+            "Emerging Powers": {
+                "url": "https://www.pokellector.com/Emerging-Powers-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/Emerging-Powers.logo.3.png",
+                "symbol": "https://den-media.pokellector.com/logos/Emerging-Powers.symbol.3.png"
+            },
+            "Noble Victories": {
+                "url": "https://www.pokellector.com/Noble-Victories-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/Noble-Victories.logo.4.png",
+                "symbol": "https://den-media.pokellector.com/logos/Noble-Victories.symbol.4.png"
+            },
+            "Next Destinies": {
+                "url": "https://www.pokellector.com/Next-Destinies-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/Next-Destinies.logo.5.png",
+                "symbol": "https://den-media.pokellector.com/logos/Next-Destinies.symbol.5.png"
+            },
+            "Dark Explorers": {
+                "url": "https://www.pokellector.com/Dark-Explorers-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/Dark-Explorers.logo.6.png",
+                "symbol": "https://den-media.pokellector.com/logos/Dark-Explorers.symbol.6.png"
+            },
+            "Dragons Exalted": {
+                "url": "https://www.pokellector.com/Dragons-Exalted-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/Dragons-Exalted.logo.2.png",
+                "symbol": "https://den-media.pokellector.com/logos/Dragons-Exalted.symbol.2.png"
+            },
+            "Dragon Vault": {
+                "url": "https://www.pokellector.com/Dragon-Vault-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/Dragon-Vault.logo.8.png",
+                "symbol": "https://den-media.pokellector.com/logos/Dragon-Vault.symbol.8.png"
+            },
+            "Boundaries Crossed": {
+                "url": "https://www.pokellector.com/Boundaries-Crossed-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/Boundaries-Crossed.logo.7.png",
+                "symbol": "https://den-media.pokellector.com/logos/Boundaries-Crossed.symbol.7.png"
+            },
+            "Plasma Storm": {
+                "url": "https://www.pokellector.com/Plasma-Storm-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/Plasma-Storm.logo.26.png",
+                "symbol": "https://den-media.pokellector.com/logos/Plasma-Storm.symbol.26.png"
+            },
+            "Plasma Freeze": {
+                "url": "https://www.pokellector.com/Plasma-Freeze-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/Plasma-Freeze.logo.51.png",
+                "symbol": "https://den-media.pokellector.com/logos/Plasma-Freeze.symbol.51.png"
+            },
+            "Plasma Blast": {
+                "url": "https://www.pokellector.com/Plasma-Blast-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/Plasma-Blast.logo.131.png",
+                "symbol": "https://den-media.pokellector.com/logos/Plasma-Blast.symbol.131.png"
+            },
+            "Legendary Treasures": {
+                "url": "https://www.pokellector.com/Legendary-Treasures-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/Legendary-Treasures.logo.138.png",
+                "symbol": "https://den-media.pokellector.com/logos/Legendary-Treasures.symbol.138.png"
+            },
+            "Radiant Collection": {
+                "url": "https://www.pokellector.com/Radiant-Collection-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/Radiant-Collection.logo.148.png",
+                "symbol": "https://den-media.pokellector.com/logos/Radiant-Collection.symbol.148.png"
+            }
+        }
+    },
+    "XY Series": {
+        "logo": "https://den-media.pokellector.com/logos/XY.logo.142.png",
+        "expansions": {
+            "XY": {
+                "url": "https://www.pokellector.com/XY-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/XY.logo.142.png",
+                "symbol": "https://den-media.pokellector.com/logos/XY.symbol.142.png"
+            },
+            "XY Promos": {
+                "url": "https://www.pokellector.com/English-XY-Promos-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/XY-Promos.logo.143.png",
+                "symbol": "https://den-media.pokellector.com/logos/XY-Promos.symbol.143.png"
+            },
+            "Kalos Starter Set": {
+                "url": "https://www.pokellector.com/Kalos-Starter-Set-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/Kalos-Starter-Set.logo.150.png",
+                "symbol": "https://den-media.pokellector.com/logos/Kalos-Starter-Set.symbol.150.png"
+            },
+            "XY Flashfire": {
+                "url": "https://www.pokellector.com/XY-Flashfire-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/XY-Flashfire.logo.155.png",
+                "symbol": "https://den-media.pokellector.com/logos/XY-Flashfire.symbol.155.png"
+            },
+            "McDonald's Collection (2014)": {
+                "url": "https://www.pokellector.com/McDonalds-Collection-2014-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/McDonalds-Collection-2014.logo.158.png",
+                "symbol": "https://den-media.pokellector.com/logos/McDonalds-Collection-2014.symbol.158.png"
+            },
+            "Furious Fists": {
+                "url": "https://www.pokellector.com/Furious-Fists-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/Furious-Fists.logo.159.png",
+                "symbol": "https://den-media.pokellector.com/logos/Furious-Fists.symbol.159.png"
+            },
+            "Phantom Forces": {
+                "url": "https://www.pokellector.com/Phantom-Forces-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/Phantom-Forces.logo.162.png",
+                "symbol": "https://den-media.pokellector.com/logos/Phantom-Forces.symbol.162.png"
+            },
+            "Primal Clash": {
+                "url": "https://www.pokellector.com/Primal-Clash-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/Primal-Clash.logo.166.png",
+                "symbol": "https://den-media.pokellector.com/logos/Primal-Clash.symbol.166.png"
+            },
+            "Double Crisis": {
+                "url": "https://www.pokellector.com/Double-Crisis-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/Double-Crisis.logo.172.png",
+                "symbol": "https://den-media.pokellector.com/logos/Double-Crisis.symbol.172.png"
+            },
+            "Roaring Skies": {
+                "url": "https://www.pokellector.com/Roaring-Skies-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/Roaring-Skies.logo.169.png",
+                "symbol": "https://den-media.pokellector.com/logos/Roaring-Skies.symbol.169.png"
+            },
+            "Ancient Origins": {
+                "url": "https://www.pokellector.com/Ancient-Origins-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/Ancient-Origins.logo.174.png",
+                "symbol": "https://den-media.pokellector.com/logos/Ancient-Origins.symbol.174.png"
+            },
+            "XY BREAKthrough": {
+                "url": "https://www.pokellector.com/XY-BREAKthrough-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/XY-Breakthrough.logo.179.png",
+                "symbol": "https://den-media.pokellector.com/logos/XY-Breakthrough.symbol.179.png"
+            },
+            "McDonald's Collection (2015)": {
+                "url": "https://www.pokellector.com/McDonalds-Collection-2015-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/McDonalds-Collection-2015.logo.182.png",
+                "symbol": "https://den-media.pokellector.com/logos/McDonalds-Collection-2015.symbol.182.png"
+            },
+            "BREAKPoint": {
+                "url": "https://www.pokellector.com/BREAKPoint-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/BREAKPoint.logo.183.png",
+                "symbol": "https://den-media.pokellector.com/logos/BREAKPoint.symbol.183.png"
+            },
+            "Generations": {
+                "url": "https://www.pokellector.com/Generations-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/Generations.logo.187.png",
+                "symbol": "https://den-media.pokellector.com/logos/Generations.symbol.187.png"
+            },
+            "Fates Collide": {
+                "url": "https://www.pokellector.com/Fates-Collide-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/Fates-Collide.logo.188.png",
+                "symbol": "https://den-media.pokellector.com/logos/Fates-Collide.symbol.188.png"
+            },
+            "Steam Siege": {
+                "url": "https://www.pokellector.com/Steam-Siege-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/Steam-Siege.logo.192.png",
+                "symbol": "https://den-media.pokellector.com/logos/Steam-Siege.symbol.192.png"
+            },
+            "McDonald's Collection (2016)": {
+                "url": "https://www.pokellector.com/McDonalds-Collection-2016-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/McDonalds-Collection-2016.logo.207.png",
+                "symbol": "https://den-media.pokellector.com/logos/McDonalds-Collection-2016.symbol.207.png"
+            },
+            "Evolutions": {
+                "url": "https://www.pokellector.com/Evolutions-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/Evolutions.logo.197.png",
+                "symbol": "https://den-media.pokellector.com/logos/Evolutions.symbol.197.png"
+            }
+        }
+    },
+    "Sun & Moon Series": {
+        "logo": "https://den-media.pokellector.com/logos/Sun-Moon.logo.205.png",
+        "expansions": {
+            "Sun & Moon": {
+                "url": "https://www.pokellector.com/English-Sun-Moon-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/Sun-Moon.logo.205.png",
+                "symbol": "https://den-media.pokellector.com/logos/Sun-Moon.symbol.205.png"
+            },
+            "Sun & Moon Promos": {
+                "url": "https://www.pokellector.com/English-Sun-Moon-Promos-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/Sun-Moon-Promos.logo.209.png",
+                "symbol": "https://den-media.pokellector.com/logos/Sun-Moon-Promos.symbol.209.png"
+            },
+            "Guardians Rising": {
+                "url": "https://www.pokellector.com/Guardians-Rising-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/Guardians-Rising.logo.220.png",
+                "symbol": "https://den-media.pokellector.com/logos/Guardians-Rising.symbol.220.png"
+            },
+            "McDonald's Collection (2017)": {
+                "url": "https://www.pokellector.com/McDonalds-Collection-2017-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/McDonalds-Collection-2017.logo.230.png",
+                "symbol": "https://den-media.pokellector.com/logos/McDonalds-Collection-2017.symbol.230.png"
+            },
+            "Burning Shadows": {
+                "url": "https://www.pokellector.com/Burning-Shadows-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/Burning-Shadows.logo.225.png",
+                "symbol": "https://den-media.pokellector.com/logos/Burning-Shadows.symbol.225.png"
+            },
+            "Shining Legends": {
+                "url": "https://www.pokellector.com/Shining-Legends-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/Shining-Legends.logo.231.png",
+                "symbol": "https://den-media.pokellector.com/logos/Shining-Legends.symbol.231.png"
+            },
+            "Crimson Invasion": {
+                "url": "https://www.pokellector.com/Crimson-Invasion-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/Crimson-Invasion.logo.229.png",
+                "symbol": "https://den-media.pokellector.com/logos/Crimson-Invasion.symbol.229.png"
+            },
+            "Ultra Prism": {
+                "url": "https://www.pokellector.com/Ultra-Prism-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/Ultra-Prism.logo.234.png",
+                "symbol": "https://den-media.pokellector.com/logos/Ultra-Prism.symbol.234.png"
+            },
+            "Forbidden Light": {
+                "url": "https://www.pokellector.com/English-Forbidden-Light-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/Forbidden-Light.logo.239.png",
+                "symbol": "https://den-media.pokellector.com/logos/Forbidden-Light.symbol.239.png"
+            },
+            "Celestial Storm": {
+                "url": "https://www.pokellector.com/Celestial-Storm-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/Celestial-Storm.logo.244.png",
+                "symbol": "https://den-media.pokellector.com/logos/Celestial-Storm.symbol.244.png"
+            },
+            "Dragon Majesty": {
+                "url": "https://www.pokellector.com/Dragon-Majesty-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/Dragon-Majesty.logo.257.png",
+                "symbol": "https://den-media.pokellector.com/logos/Dragon-Majesty.symbol.257.png"
+            },
+            "McDonald's Collection (2018)": {
+                "url": "https://www.pokellector.com/McDonalds-Collection-2018-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/McDonalds-Collection-2018.logo.265.png",
+                "symbol": "https://den-media.pokellector.com/logos/McDonalds-Collection-2018.symbol.265.png"
+            },
+            "Lost Thunder": {
+                "url": "https://www.pokellector.com/Lost-Thunder-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/Lost-Thunder.logo.259.png",
+                "symbol": "https://den-media.pokellector.com/logos/Lost-Thunder.symbol.259.png"
+            },
+            "Team Up": {
+                "url": "https://www.pokellector.com/Team-Up-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/Team-Up.logo.261.png",
+                "symbol": "https://den-media.pokellector.com/logos/Team-Up.symbol.261.png"
+            },
+            "Detective Pikachu": {
+                "url": "https://www.pokellector.com/English-Detective-Pikachu-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/Detective-Pikachu.logo.270.png",
+                "symbol": "https://den-media.pokellector.com/logos/Detective-Pikachu.symbol.270.png"
+            },
+            "Unbroken Bonds": {
+                "url": "https://www.pokellector.com/Unbroken-Bonds-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/Unbroken-Bonds.logo.269.png",
+                "symbol": "https://den-media.pokellector.com/logos/Unbroken-Bonds.symbol.269.png"
+            },
+            "Unified Minds": {
+                "url": "https://www.pokellector.com/Unified-Minds-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/Unified-Minds.logo.275.png",
+                "symbol": "https://den-media.pokellector.com/logos/Unified-Minds.symbol.275.png"
+            },
+            "Hidden Fates": {
+                "url": "https://www.pokellector.com/Hidden-Fates-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/Hidden-Fates.logo.279.png",
+                "symbol": "https://den-media.pokellector.com/logos/Hidden-Fates.symbol.279.png"
+            },
+            "McDonald's Collection (2019)": {
+                "url": "https://www.pokellector.com/McDonalds-Collection-2019-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/McDonalds-Collection-2019.logo.290.png",
+                "symbol": "https://den-media.pokellector.com/logos/McDonalds-Collection-2019.symbol.290.png"
+            },
+            "McDonald's Collection (2019 FR)": {
+                "url": "https://www.pokellector.com/McDonalds-Collection-2019-FR-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/McDonalds-Collection-2019-FR.logo.334.png",
+                "symbol": "https://den-media.pokellector.com/logos/McDonalds-Collection-2019-FR.symbol.334.png"
+            },
+            "Cosmic Eclipse": {
+                "url": "https://www.pokellector.com/Cosmic-Eclipse-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/Cosmic-Eclipse.logo.280.png",
+                "symbol": "https://den-media.pokellector.com/logos/Cosmic-Eclipse.symbol.280.png"
+            }
+        }
+    },
+    "Sword & Shield Series": {
+        "logo": "https://den-media.pokellector.com/logos/Sword-Shield.logo.286.png",
+        "expansions": {
+            "Sword & Shield Promos": {
+                "url": "https://www.pokellector.com/English-Sword-Shield-Promos-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/Sword-Shield-Promos.logo.287.png",
+                "symbol": "https://den-media.pokellector.com/logos/Sword-Shield-Promos.symbol.287.png"
+            },
+            "Sword & Shield": {
+                "url": "https://www.pokellector.com/English-Sword-Shield-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/Sword-Shield.logo.286.png",
+                "symbol": "https://den-media.pokellector.com/logos/Sword-Shield.symbol.286.png"
+            },
+            "Rebel Clash": {
+                "url": "https://www.pokellector.com/Rebel-Clash-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/Rebel-Clash.logo.292.png",
+                "symbol": "https://den-media.pokellector.com/logos/Rebel-Clash.symbol.292.png"
+            },
+            "Darkness Ablaze": {
+                "url": "https://www.pokellector.com/Darkness-Ablaze-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/Darkness-Ablaze.logo.296.png",
+                "symbol": "https://den-media.pokellector.com/logos/Darkness-Ablaze.symbol.296.png"
+            },
+            "Pokemon Futsal Promos": {
+                "url": "https://www.pokellector.com/Pokemon-Futsal-Promos-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/Pokemon-Futsal-Promos.logo.303.png",
+                "symbol": "https://den-media.pokellector.com/logos/Pokemon-Futsal-Promos.symbol.303.png"
+            },
+            "Champion's Path": {
+                "url": "https://www.pokellector.com/Champions-Path-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/Champions-Path.logo.298.png",
+                "symbol": "https://den-media.pokellector.com/logos/Champions-Path.symbol.298.png"
+            },
+            "Vivid Voltage": {
+                "url": "https://www.pokellector.com/Vivid-Voltage-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/Vivid-Voltage.logo.299.png",
+                "symbol": "https://den-media.pokellector.com/logos/Vivid-Voltage.symbol.299.png"
+            },
+            "McDonald's 25th Anniversary": {
+                "url": "https://www.pokellector.com/McDonalds-25th-Anniversary-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/McDonalds-25th-Anniversary.logo.300.png",
+                "symbol": "https://den-media.pokellector.com/logos/McDonalds-25th-Anniversary.symbol.300.png"
+            },
+            "Shining Fates": {
+                "url": "https://www.pokellector.com/Shining-Fates-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/Shining-Fates.logo.304.png",
+                "symbol": "https://den-media.pokellector.com/logos/Shining-Fates.symbol.304.png"
+            },
+            "Battle Styles": {
+                "url": "https://www.pokellector.com/Battle-Styles-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/Battle-Styles.logo.305.png",
+                "symbol": "https://den-media.pokellector.com/logos/Battle-Styles.symbol.305.png"
+            },
+            "Chilling Reign": {
+                "url": "https://www.pokellector.com/Chilling-Reign-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/Chilling-Reign.logo.320.png",
+                "symbol": "https://den-media.pokellector.com/logos/Chilling-Reign.symbol.320.png"
+            },
+            "Evolving Skies": {
+                "url": "https://www.pokellector.com/Evolving-Skies-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/Evolving-Skies.logo.325.png",
+                "symbol": "https://den-media.pokellector.com/logos/Evolving-Skies.symbol.325.png"
+            },
+            "Celebrations": {
+                "url": "https://www.pokellector.com/Celebrations-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/Celebrations.logo.329.png",
+                "symbol": "https://den-media.pokellector.com/logos/Celebrations.symbol.329.png"
+            },
+            "Fusion Strike": {
+                "url": "https://www.pokellector.com/Fusion-Strike-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/Fusion-Strike.logo.335.png",
+                "symbol": "https://den-media.pokellector.com/logos/Fusion-Strike.symbol.335.png"
+            },
+            "Brilliant Stars - Trainer Gallery": {
+                "url": "https://www.pokellector.com/Brilliant-Stars-Trainer-Gallery-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/Brilliant-Stars-Trainer-Gallery.logo.349.png",
+                "symbol": "https://den-media.pokellector.com/logos/Brilliant-Stars-Trainer-Gallery.symbol.349.png"
+            },
+            "Brilliant Stars": {
+                "url": "https://www.pokellector.com/Brilliant-Stars-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/Brilliant-Stars.logo.340.png",
+                "symbol": "https://den-media.pokellector.com/logos/Brilliant-Stars.symbol.340.png"
+            },
+            "Astral Radiance - Trainer Gallery": {
+                "url": "https://www.pokellector.com/Astral-Radiance-Trainer-Gallery-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/Astral-Radiance-Trainer-Gallery.logo.348.png",
+                "symbol": "https://den-media.pokellector.com/logos/Astral-Radiance-Trainer-Gallery.symbol.348.png"
+            },
+            "Astral Radiance": {
+                "url": "https://www.pokellector.com/Astral-Radiance-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/Astral-Radiance.logo.345.png",
+                "symbol": "https://den-media.pokellector.com/logos/Astral-Radiance.symbol.345.png"
+            },
+            "Pokemon Go": {
+                "url": "https://www.pokellector.com/English-Pokemon-Go-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/Pokemon-Go.logo.346.png",
+                "symbol": "https://den-media.pokellector.com/logos/Pokemon-Go.symbol.346.png"
+            },
+            "McDonald's Match Battle": {
+                "url": "https://www.pokellector.com/McDonalds-Match-Battle-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/McDonalds-Match-Battle.logo.353.png",
+                "symbol": "https://den-media.pokellector.com/logos/McDonalds-Match-Battle.symbol.353.png"
+            },
+            "Trick or Trade": {
+                "url": "https://www.pokellector.com/Trick-or-Trade-Collection/",
+                "splash": "https://den-media.pokellector.com/logos/Trick-or-Trade-collection.2.png",
+                "symbol": null
+            },
+            "Holiday Calendar 2022": {
+                "url": "https://www.pokellector.com/Holiday-Calendar-2022-Collection/",
+                "splash": "https://den-media.pokellector.com/logos/Holiday-Calendar-2022-collection.5.png",
+                "symbol": null
+            },
+            "Lost Origin - Trainer Gallery": {
+                "url": "https://www.pokellector.com/Lost-Origin-Trainer-Gallery-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/Lost-Origin-Trainer-Gallery.logo.355.png",
+                "symbol": "https://den-media.pokellector.com/logos/Lost-Origin-Trainer-Gallery.symbol.355.png"
+            },
+            "Lost Origin": {
+                "url": "https://www.pokellector.com/Lost-Origin-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/Lost-Origin.logo.350.png",
+                "symbol": "https://den-media.pokellector.com/logos/Lost-Origin.symbol.350.png"
+            },
+            "Silver Tempest": {
+                "url": "https://www.pokellector.com/Silver-Tempest-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/Silver-Tempest.logo.354.png",
+                "symbol": "https://den-media.pokellector.com/logos/Silver-Tempest.symbol.354.png"
+            },
+            "Silver Tempest - Trainer Gallery": {
+                "url": "https://www.pokellector.com/Silver-Tempest-Trainer-Gallery-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/Silver-Tempest-Trainer-Gallery.logo.356.png",
+                "symbol": "https://den-media.pokellector.com/logos/Silver-Tempest-Trainer-Gallery.symbol.356.png"
+            },
+            "Crown Zenith - Galarian Gallery": {
+                "url": "https://www.pokellector.com/Crown-Zenith-Galarian-Gallery-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/Crown-Zenith-Galarian-Gallery.logo.365.png",
+                "symbol": "https://den-media.pokellector.com/logos/Crown-Zenith-Galarian-Gallery.symbol.365.png"
+            },
+            "Crown Zenith": {
+                "url": "https://www.pokellector.com/Crown-Zenith-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/Crown-Zenith.logo.358.png",
+                "symbol": "https://den-media.pokellector.com/logos/Crown-Zenith.symbol.358.png"
+            }
+        }
+    },
+    "Scarlet & Violet Series": {
+        "logo": "https://den-media.pokellector.com/logos/Scarlet-Violet.logo.363.png",
+        "expansions": {
+            "Scarlet & Violet Promos": {
+                "url": "https://www.pokellector.com/Scarlet-Violet-English-Promos-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/Scarlet-Violet-Promos.logo.364.png",
+                "symbol": "https://den-media.pokellector.com/logos/Scarlet-Violet-Promos.symbol.364.png"
+            },
+            "Scarlet & Violet": {
+                "url": "https://www.pokellector.com/Scarlet-Violet-English-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/Scarlet-Violet.logo.363.png",
+                "symbol": "https://den-media.pokellector.com/logos/Scarlet-Violet.symbol.363.png"
+            },
+            "Scarlet & Violet Energies": {
+                "url": "https://www.pokellector.com/Scarlet-Violet-Energies-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/Scarlet-Violet-Energies.logo.404.png",
+                "symbol": "https://den-media.pokellector.com/logos/Scarlet-Violet-Energies.symbol.404.png"
+            },
+            "Paldea Evolved": {
+                "url": "https://www.pokellector.com/Paldea-Evolved-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/Paldea-Evolved.logo.367.png",
+                "symbol": "https://den-media.pokellector.com/logos/Paldea-Evolved.symbol.367.png"
+            },
+            "Obsidian Flames": {
+                "url": "https://www.pokellector.com/Obsidian-Flames-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/Obsidian-Flames.logo.373.png",
+                "symbol": "https://den-media.pokellector.com/logos/Obsidian-Flames.symbol.373.png"
+            },
+            "McDonald's Match Battle 2023": {
+                "url": "https://www.pokellector.com/McDonalds-2023-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/McDonalds-Match-Battle-2023.logo.372.png",
+                "symbol": "https://den-media.pokellector.com/logos/McDonalds-Match-Battle-2023.symbol.372.png"
+            },
+            "Trick or Trade 2023": {
+                "url": "https://www.pokellector.com/Trick-or-Trade-2023-Collection/",
+                "splash": "https://den-media.pokellector.com/logos/Trick-or-Trade-2023-collection.3.png",
+                "symbol": null
+            },
+            "Holiday Calendar 2023": {
+                "url": "https://www.pokellector.com/Holiday-Calendar-2023-Collection/",
+                "splash": "https://den-media.pokellector.com/logos/Holiday-Calendar-2023-collection.4.png",
+                "symbol": null
+            },
+            "Scarlet & Violet - 151": {
+                "url": "https://www.pokellector.com/Scarlet-Violet-151-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/Scarlet-Violet-151.logo.374.png",
+                "symbol": "https://den-media.pokellector.com/logos/Scarlet-Violet-151.symbol.374.png"
+            },
+            "Paradox Rift": {
+                "url": "https://www.pokellector.com/Paradox-Rift-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/Paradox-Rift.logo.377.png",
+                "symbol": "https://den-media.pokellector.com/logos/Paradox-Rift.symbol.377.png"
+            },
+            "Paldean Fates": {
+                "url": "https://www.pokellector.com/Paldean-Fates-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/Paldean-Fates.logo.384.png",
+                "symbol": "https://den-media.pokellector.com/logos/Paldean-Fates.symbol.384.png"
+            },
+            "Temporal Forces": {
+                "url": "https://www.pokellector.com/Temporal-Forces-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/Temporal-Forces.logo.383.png",
+                "symbol": "https://den-media.pokellector.com/logos/Temporal-Forces.symbol.383.png"
+            },
+            "Twilight Masquerade": {
+                "url": "https://www.pokellector.com/Twilight-Masquerade-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/Twilight-Masquerade.logo.392.png",
+                "symbol": "https://den-media.pokellector.com/logos/Twilight-Masquerade.symbol.392.png"
+            },
+            "Shrouded Fable": {
+                "url": "https://www.pokellector.com/Shrouded-Fable-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/Shrouded-Fable.logo.399.png",
+                "symbol": "https://den-media.pokellector.com/logos/Shrouded-Fable.symbol.399.png"
+            },
+            "Trick or Trade 2024": {
+                "url": "https://www.pokellector.com/Trick-or-Trade-2024-Collection/",
+                "splash": "https://den-media.pokellector.com/logos/Trick-or-Trade-2024-collection.6.png",
+                "symbol": null
+            },
+            "Holiday Calendar 2024": {
+                "url": "https://www.pokellector.com/Holiday-Calendar-2024-Collection/",
+                "splash": "https://den-media.pokellector.com/logos/Holiday-Calendar-2024-collection.7.png",
+                "symbol": null
+            },
+            "Stellar Crown": {
+                "url": "https://www.pokellector.com/Stellar-Crown-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/Stellar-Crown.logo.400.png",
+                "symbol": "https://den-media.pokellector.com/logos/Stellar-Crown.symbol.400.png"
+            },
+            "Surging Sparks": {
+                "url": "https://www.pokellector.com/Surging-Sparks-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/Surging-Sparks.logo.402.png",
+                "symbol": "https://den-media.pokellector.com/logos/Surging-Sparks.symbol.402.png"
+            },
+            "Prismatic Evolutions": {
+                "url": "https://www.pokellector.com/Prismatic-Evolutions-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/Prismatic-Evolutions.logo.407.png",
+                "symbol": "https://den-media.pokellector.com/logos/Prismatic-Evolutions.symbol.407.png"
+            },
+            "McDonald's Dragon Discovery": {
+                "url": "https://www.pokellector.com/McDonalds-Dragon-Discovery-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/McDonalds-Dragon-Discovery.logo.410.png",
+                "symbol": "https://den-media.pokellector.com/logos/McDonalds-Dragon-Discovery.symbol.410.png"
+            },
+            "Journey Together": {
+                "url": "https://www.pokellector.com/Journey-Together-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/Journey-Together.logo.409.png",
+                "symbol": "https://den-media.pokellector.com/logos/Journey-Together.symbol.409.png"
+            },
+            "Destined Rivals": {
+                "url": "https://www.pokellector.com/Destined-Rivals-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/Destined-Rivals.logo.412.png",
+                "symbol": "https://den-media.pokellector.com/logos/Destined-Rivals.symbol.412.png"
+            },
+            "Black Bolt": {
+                "url": "https://www.pokellector.com/Black-Bolt-EN-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/Black-Bolt.logo.420.png",
+                "symbol": "https://den-media.pokellector.com/logos/Black-Bolt.symbol.420.png"
+            },
+            "White Flare": {
+                "url": "https://www.pokellector.com/White-Flare-EN-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/White-Flare.logo.421.png",
+                "symbol": "https://den-media.pokellector.com/logos/White-Flare.symbol.421.png"
+            }
+        }
+    },
+    "Mega Evolution Series": {
+        "logo": "https://den-media.pokellector.com/logos/Mega-Evolution.logo.422.png",
+        "expansions": {
+            "Mega Evolution": {
+                "url": "https://www.pokellector.com/Mega-Evolution-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/Mega-Evolution.logo.422.png",
+                "symbol": "https://den-media.pokellector.com/logos/Mega-Evolution.symbol.422.png"
+            },
+            "Mega Evolution Black Star Promos": {
+                "url": "https://www.pokellector.com/Mega-Evolution-Black-Star-Promos-Expansion/",
+                "splash": "https://den-media.pokellector.com/logos/Mega-Evolution-Black-Star-Promos.logo.423.png",
+                "symbol": "https://den-media.pokellector.com/logos/Mega-Evolution-Black-Star-Promos.symbol.423.png"
+            }
+        }
+    }
+}
