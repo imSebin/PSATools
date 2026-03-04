@@ -7,7 +7,7 @@ from CTkToolTip import CTkToolTip
 
 from PIL import Image
 
-import menu.menu as mb
+import menu as mb
 import data.get_portfolio as dat
 
 class App:

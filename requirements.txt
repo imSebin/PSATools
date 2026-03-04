@@ -1,0 +1,9 @@
+customtkinter>=5.2.2
+CTKToolTip>=0.8
+pillow>=12.1.1
+requests>=2.32.5
+bs4>=0.0.2
+tqdm>=4.67.3
+CTKTable>=1.1
+CTKMessageBox>=2.7
+CTKMenuBar>=0.9
